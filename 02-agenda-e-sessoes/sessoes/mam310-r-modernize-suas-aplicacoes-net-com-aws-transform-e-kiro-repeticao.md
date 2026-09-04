@@ -1,6 +1,6 @@
 # Modernize suas aplicações .NET com AWS Transform e Kiro [REPETIÇÃO] | MAM310-R
 
-> Status: catalogo oficial; revisao comunitaria
+> Status: Oficial; Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `mam310-r`
@@ -37,28 +37,35 @@ Sessão de live coding: começando com uma aplicação legada em .NET Framework,
 ## Referencias oficiais relacionadas
 
 - [AWS Transform](https://aws.amazon.com/transform/)
+- [AWS Transform - documentacao](https://docs.aws.amazon.com/transform/latest/userguide/what-is-service.html)
+- [AWS Transform em ferramentas de desenvolvedor](https://docs.aws.amazon.com/transform/latest/userguide/developer-tools.html)
+- [Kiro Documentation - AWS](https://aws.amazon.com/documentation-overview/kiro/)
 
 ## Evidencias locais
 
-Associacao automatica por conteudo visual, agenda e temas. Validar manualmente antes de citar como evidencia final da sessao.
+Associacao automatica por conteudo visual, agenda e temas. Os arquivos locais foram retirados da versao publica; validar manualmente antes de citar como evidencia final da sessao.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |
-| [FOTO-005](../../04-midias-e-evidencias/assets/fotos/FOTO-005__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-006](../../04-midias-e-evidencias/assets/fotos/FOTO-006__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-008](../../04-midias-e-evidencias/assets/fotos/FOTO-008__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-009](../../04-midias-e-evidencias/assets/fotos/FOTO-009__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-019](../../04-midias-e-evidencias/assets/fotos/FOTO-019__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-026](../../04-midias-e-evidencias/assets/fotos/FOTO-026__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-028](../../04-midias-e-evidencias/assets/fotos/FOTO-028__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-036](../../04-midias-e-evidencias/assets/fotos/FOTO-036__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-005 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-006 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-008 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-009 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-019 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-026 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-028 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-036 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
 
 ## Insights
 
 | Insight | Evidencia | Impacto | Proxima acao |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| Modernizacao .NET com IA deve combinar automacao com especificacao e revisao humana. | Descricao oficial AWS e inventario FOTO-005 a FOTO-036 | Acelera migrações sem transformar codigo gerado em caixa-preta. | Criar checklist de revisao para mudancas geradas por AWS Transform e Kiro. |
+| Kiro complementa AWS Transform ao transformar requisitos e decisoes em tarefas rastreaveis. | Descricao oficial AWS e referencias Kiro | Reduz ambiguidade em refatoracao e facilita handoff entre arquitetura e desenvolvimento. | Conectar com [NTA109](nta109-desenvolvimento-orientado-a-especificacoes-com-kiro.md) para padrao de especificacao. |
+| Live coding de modernizacao e um bom candidato para POC interna com aplicacao legado controlada. | Curadoria comunitaria, em revisao | Mostra ganho pratico sem expor sistema critico. | Selecionar uma aplicacao .NET nao critica e definir rollback, testes e metricas de sucesso. |
 
 ## Agradecimento
 
 Agradecimento aos palestrantes e organizacoes por compartilhar conhecimento com a comunidade AWS.
+
+

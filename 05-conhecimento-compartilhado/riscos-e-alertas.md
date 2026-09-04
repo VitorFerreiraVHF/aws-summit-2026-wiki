@@ -1,6 +1,6 @@
 # Riscos e alertas
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `riscos`
@@ -12,3 +12,4 @@
 | Modernizacao por inventario | Lista grande de servidores sem criterio de negocio | Priorizacao por valor, dependencia, risco e dados |
 | POC sem caminho para producao | Demo funciona, mas nao ha observabilidade/custo/seguranca | Definir landing zone, SLOs, guardrails e ownership desde o inicio |
 | IA como substituta de processo | Medicao apenas de codigo gerado | Medir fluxo completo e qualidade operacional |
+

@@ -1,6 +1,8 @@
 # Midias e evidencias
 
-Esta area organiza fotos, videos, audios, transcricoes, slides, links e anexos usados como base para os insights.
+Esta area organiza o inventario de fotos, videos, audios, transcricoes, slides, links e anexos usados como base para os insights.
+
+Por privacidade e direitos de terceiros, os arquivos locais de audio, foto, video, folhas de contato e transcricoes automaticas foram retirados da versao publica. Mantenha aqui apenas IDs, contexto, status de revisao e links oficiais ou autorizados.
 
 ## Paginas desta area
 
@@ -18,7 +20,6 @@ Midia sem contexto vira arquivo perdido. Sempre registre:
 - data;
 - sessao ou topico;
 - descricao curta;
-- link para arquivo;
+- local privado ou link autorizado;
 - trecho ou timestamp relevante;
 - insight relacionado.
-

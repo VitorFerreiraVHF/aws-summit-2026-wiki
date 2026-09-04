@@ -1,6 +1,6 @@
 # Dados e Analytics
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `dados`, `analytics`, `rag`
@@ -17,3 +17,4 @@
 - [Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)
 - [Amazon S3](https://aws.amazon.com/s3/)
 - [AWS Glue](https://aws.amazon.com/glue/)
+

@@ -1,6 +1,6 @@
 # Observabilidade SaaS com IA usando OpenSearch [REPETIÇÃO] | ISV303-R
 
-> Status: catalogo oficial; revisao comunitaria
+> Status: Oficial; Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `isv303-r`
@@ -56,3 +56,4 @@ Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione
 ## Agradecimento
 
 Agradecimento aos palestrantes e organizacoes por compartilhar conhecimento com a comunidade AWS.
+

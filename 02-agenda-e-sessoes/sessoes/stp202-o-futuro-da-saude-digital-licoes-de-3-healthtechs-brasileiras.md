@@ -1,6 +1,6 @@
 # O futuro da saúde digital: lições de 3 healthtechs brasileiras | STP202
 
-> Status: catalogo oficial; revisao comunitaria
+> Status: Oficial; Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `stp202`
@@ -55,3 +55,4 @@ Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione
 ## Agradecimento
 
 Agradecimento aos palestrantes e organizacoes por compartilhar conhecimento com a comunidade AWS.
+

@@ -1,6 +1,6 @@
 # Palestrantes e contatos
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `creditos`, `palestrantes`
@@ -101,3 +101,4 @@ Quando nomes individuais forem confirmados em slides, LinkedIn, videos oficiais 
 ## Agradecimento
 
 Obrigado a todos os palestrantes, clientes, parceiros, comunidades e equipes da AWS por compartilhar conhecimento no AWS Summit Sao Paulo 2026.
+

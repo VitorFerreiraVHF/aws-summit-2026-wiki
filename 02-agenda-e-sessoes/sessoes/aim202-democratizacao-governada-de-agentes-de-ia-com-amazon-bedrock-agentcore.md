@@ -1,6 +1,6 @@
 # Democratização governada de Agentes de IA com Amazon Bedrock AgentCore | AIM202
 
-> Status: catalogo oficial; revisao comunitaria
+> Status: Oficial; Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `aim202`
@@ -38,27 +38,32 @@ Veja como a Serasa democratizou e acelerou a criação, o acesso e o consumo de 
 
 - [Amazon Bedrock](https://aws.amazon.com/bedrock/)
 - [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/)
+- [Documentacao Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/)
 
 ## Evidencias locais
 
-Associacao automatica por conteudo visual, agenda e temas. Validar manualmente antes de citar como evidencia final da sessao.
+Associacao automatica por conteudo visual, agenda e temas. Os arquivos locais foram retirados da versao publica; validar manualmente antes de citar como evidencia final da sessao.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |
-| [FOTO-037](../../04-midias-e-evidencias/assets/fotos/FOTO-037__2026-09-04__aws-summit-2026__censurado.jpg) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
-| [FOTO-038](../../04-midias-e-evidencias/assets/fotos/FOTO-038__2026-09-04__aws-summit-2026__censurado.jpg) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
-| [FOTO-044](../../04-midias-e-evidencias/assets/fotos/FOTO-044__2026-09-04__aws-summit-2026__censurado.jpg) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
-| [FOTO-046](../../04-midias-e-evidencias/assets/fotos/FOTO-046__2026-09-04__aws-summit-2026__censurado.jpg) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
-| [FOTO-049](../../04-midias-e-evidencias/assets/fotos/FOTO-049__2026-09-04__aws-summit-2026__censurado.jpg) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
-| [FOTO-050](../../04-midias-e-evidencias/assets/fotos/FOTO-050__2026-09-04__aws-summit-2026__censurado.jpg) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
-| [FOTO-053](../../04-midias-e-evidencias/assets/fotos/FOTO-053__2026-09-04__aws-summit-2026__censurado.jpg) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
+| FOTO-037 (asset local em revisao) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
+| FOTO-038 (asset local em revisao) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
+| FOTO-044 (asset local em revisao) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
+| FOTO-046 (asset local em revisao) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
+| FOTO-049 (asset local em revisao) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
+| FOTO-050 (asset local em revisao) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
+| FOTO-053 (asset local em revisao) | foto | AgentCore, contexto, RAG e observabilidade: Evidencias visuais sobre agentes em producao, harness, conhecimento, dados e lacunas de deploy/auditoria/escala. |
 
 ## Insights
 
 | Insight | Evidencia | Impacto | Proxima acao |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| Democratizar agentes exige uma camada comum de criacao, publicacao, feedback, governanca e FinOps. | Descricao oficial AWS e inventario FOTO-037 a FOTO-053 | Reduzir iniciativas paralelas sem controle e acelerar adocao por areas de negocio. | Mapear um modelo interno de portal/catalogo de agentes com trilha de aprovacao. |
+| O papel de AI Officer ou governanca central aparece como ponte entre inovacao, responsabilidade e custo. | Descricao oficial AWS | Dar escala com accountability, evitando que cada area defina seus proprios controles isoladamente. | Relacionar esta sessao com [DVT203](dvt203-debug-mais-rapido-governe-melhor-ai-dlc-e-observabilidade.md), [SEC302](sec302-protegendo-o-acesso-de-agentes-com-o-amazon-bedrock-agentcore-identity.md) e [COP401](cop401-instrumente-visualize-e-resolva-problemas-em-sua-aplicacao-de-ia.md). |
+| Feedback de usuarios precisa ser tratado como sinal operacional e nao apenas como avaliacao informal. | Descricao oficial AWS | Melhora qualidade dos agentes e cria base para priorizacao de evolucao. | Definir indicadores de uso, satisfacao, qualidade de resposta, custo e incidentes. |
 
 ## Agradecimento
 
 Agradecimento aos palestrantes e organizacoes por compartilhar conhecimento com a comunidade AWS.
+
+

@@ -1,6 +1,6 @@
 # BTG reduz 45% de custos de .Net usando AWS Transform e Kiro | MAM307
 
-> Status: catalogo oficial; revisao comunitaria
+> Status: Oficial; Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `mam307`
@@ -41,18 +41,18 @@ O onboarding e a gestão de contas é um dos processos mais críticos do BTG Pac
 
 ## Evidencias locais
 
-Associacao automatica por conteudo visual, agenda e temas. Validar manualmente antes de citar como evidencia final da sessao.
+Associacao automatica por conteudo visual, agenda e temas. Os arquivos locais foram retirados da versao publica; validar manualmente antes de citar como evidencia final da sessao.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |
-| [FOTO-005](../../04-midias-e-evidencias/assets/fotos/FOTO-005__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-006](../../04-midias-e-evidencias/assets/fotos/FOTO-006__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-008](../../04-midias-e-evidencias/assets/fotos/FOTO-008__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-009](../../04-midias-e-evidencias/assets/fotos/FOTO-009__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-019](../../04-midias-e-evidencias/assets/fotos/FOTO-019__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-026](../../04-midias-e-evidencias/assets/fotos/FOTO-026__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-028](../../04-midias-e-evidencias/assets/fotos/FOTO-028__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
-| [FOTO-036](../../04-midias-e-evidencias/assets/fotos/FOTO-036__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-005 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-006 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-008 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-009 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-019 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-026 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-028 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
+| FOTO-036 (asset local em revisao) | foto | Mod-AI, EBA e Working Backwards: Evidencias visuais de jornada de modernizacao com IA: avaliacao, fundamentos, servicos cloud-native, AI-DLC, legado e POC. |
 
 ## Insights
 
@@ -63,3 +63,5 @@ Associacao automatica por conteudo visual, agenda e temas. Validar manualmente a
 ## Agradecimento
 
 Agradecimento aos palestrantes e organizacoes por compartilhar conhecimento com a comunidade AWS.
+
+

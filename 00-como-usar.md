@@ -14,6 +14,7 @@ Esta area define o jeito de registrar conhecimento para que a wiki continue faci
 
 - [Fluxo de captura](00-como-usar/fluxo-de-captura.md)
 - [Taxonomia de tags](00-como-usar/taxonomia-de-tags.md)
+- [Status editorial](00-como-usar/status-editorial.md)
 - [Padroes de nomeacao](00-como-usar/padroes-de-nomeacao.md)
 - [Checklist de publicacao](00-como-usar/checklist-de-publicacao.md)
 
@@ -22,9 +23,8 @@ Esta area define o jeito de registrar conhecimento para que a wiki continue faci
 Use este bloco no topo de paginas de sessao, topico, insight e evidencia.
 
 ```md
-> Status: rascunho
+> Status: Em revisao
 > Dono: nome ou time
 > Ultima revisao: YYYY-MM-DD
 > Tags: `aws-summit-2026`, `topico`, `servico-aws`
 ```
-

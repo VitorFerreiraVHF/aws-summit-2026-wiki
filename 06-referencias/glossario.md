@@ -1,6 +1,6 @@
 # Glossario
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `glossario`
@@ -20,3 +20,4 @@
 | AWS Continuum | Termo usado nos slides para capacidades de seguranca no fluxo de desenvolvimento, como pentest, code review, threat modeling e vulnerabilidades. | [Seguranca](../03-topicos/seguranca-identidade-compliance.md) |
 | Guardrails | Controles que restringem comportamento, dados, permissoes ou saidas de um sistema de IA/agente. | [Seguranca](../03-topicos/seguranca-identidade-compliance.md) |
 | Landing zone de agentes | Fundacao operacional para agentes: identidade, rede, logs, auditoria, observabilidade, custos e politicas. | [Generative AI](../03-topicos/generative-ai-machine-learning.md) |
+

@@ -1,6 +1,6 @@
 # Desenvolvimento orientado a especificações com Kiro | NTA109
 
-> Status: catalogo oficial; revisao comunitaria
+> Status: Oficial; Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `nta109`
@@ -32,26 +32,30 @@ O desenvolvimento orientado a especificações com Kiro transforma a forma como 
 
 ## Topicos relacionados na wiki
 
-- A classificar
+[DevOps e Platform Engineering](../../03-topicos/devops-platform-engineering.md), [Generative AI e Machine Learning](../../03-topicos/generative-ai-machine-learning.md)
 
 ## Referencias oficiais relacionadas
 
-- Nenhum servico AWS especifico foi detectado automaticamente nesta descricao.
+- [Kiro Documentation - AWS](https://aws.amazon.com/documentation-overview/kiro/)
+- [Kiro Specs](https://kiro.dev/docs/specs/)
 
 ## Evidencias locais
 
-Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
+Ainda nao ha evidencia local validada associada a esta sessao. Use a descricao oficial e as referencias acima como base ate revisar materiais autorizados.
 
-| Evidencia | Tipo | Observacao |
-| --- | --- | --- |
-|  |  |  |
+| Evidencia | Tipo | Status | Observacao |
+| --- | --- | --- | --- |
+| Agenda oficial AWS | fonte oficial | Oficial | Base para titulo, horario, formato e descricao. |
 
 ## Insights
 
 | Insight | Evidencia | Impacto | Proxima acao |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| Especificacao antes do codigo reduz ambiguidade e melhora o contexto para agentes de IA. | Descricao oficial AWS e documentacao Kiro Specs | Ajuda times a sair de prompts soltos para requisitos, design e tarefas rastreaveis. | Criar template interno de `requirements.md`, `design.md` e `tasks.md` para PoCs. |
+| Kiro pode ser usado como disciplina de alinhamento, nao apenas como acelerador de codigo. | Descricao oficial AWS | Aumenta previsibilidade, revisao humana e continuidade entre produto e engenharia. | Relacionar com [MAM310-R](mam310-r-modernize-suas-aplicacoes-net-com-aws-transform-e-kiro-repeticao.md) para modernizacao .NET. |
+| O ganho profissional esta em documentar decisao e criterio de aceite antes da automacao agir. | Curadoria comunitaria, em revisao | Reduz retrabalho e facilita auditoria tecnica depois da entrega. | Adicionar exemplo pratico de especificacao em uma futura POC. |
 
 ## Agradecimento
 
 Agradecimento aos palestrantes e organizacoes por compartilhar conhecimento com a comunidade AWS.
+

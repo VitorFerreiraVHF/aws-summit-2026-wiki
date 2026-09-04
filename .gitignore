@@ -15,3 +15,15 @@ __pycache__/
 # Prefer links, compressed clips, Git LFS, S3, OneDrive or SharePoint for large videos.
 04-midias-e-evidencias/assets/raw/*
 !04-midias-e-evidencias/assets/raw/.gitkeep
+
+# Keep event media private until human review, rights validation, and explicit publication approval.
+04-midias-e-evidencias/assets/fotos/*
+!04-midias-e-evidencias/assets/fotos/.gitkeep
+04-midias-e-evidencias/assets/videos/*
+!04-midias-e-evidencias/assets/videos/.gitkeep
+04-midias-e-evidencias/assets/audio/*
+!04-midias-e-evidencias/assets/audio/.gitkeep
+04-midias-e-evidencias/assets/transcricoes/*
+!04-midias-e-evidencias/assets/transcricoes/.gitkeep
+04-midias-e-evidencias/assets/contact-sheets/*
+!04-midias-e-evidencias/assets/contact-sheets/.gitkeep

@@ -1,6 +1,6 @@
 # Padroes e boas praticas
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `boas-praticas`
@@ -11,3 +11,4 @@
 - Use POCs pequenas para validar valor, risco, custo e operabilidade.
 - Em modernizacao, priorize ondas por dependencias, valor, risco e prontidao, nao so por inventario.
 - Meça o processo de engenharia: lead time, retrabalho, incidentes, teste, revisao e custo.
+

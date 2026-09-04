@@ -1,6 +1,6 @@
 # Laura Grit Keynote | KEY001
 
-> Status: catalogo oficial; revisao comunitaria
+> Status: Oficial; Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `key001`
@@ -33,26 +33,28 @@ Na AWS, acreditamos que os desenvolvedores devem ter a liberdade de inventar qua
 
 ## Topicos relacionados na wiki
 
-- A classificar
+[Generative AI e Machine Learning](../../03-topicos/generative-ai-machine-learning.md), [Seguranca, Identidade e Compliance](../../03-topicos/seguranca-identidade-compliance.md), [Observabilidade e Operacoes](../../03-topicos/observabilidade-operacoes.md)
 
 ## Referencias oficiais relacionadas
 
-- Nenhum servico AWS especifico foi detectado automaticamente nesta descricao.
+- [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/)
+- [Documentacao Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/)
+- [Kiro Documentation - AWS](https://aws.amazon.com/documentation-overview/kiro/)
 
 ## Evidencias locais
 
-Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
+Associacoes locais foram registradas por transcricao e conteudo visual, mas os arquivos foram retirados da versao publica. Validar manualmente antes de citar como evidencia final da sessao.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |
-| [AUD-002](../../04-midias-e-evidencias/assets/transcricoes/AUD-002__transcricao-automatica.md) | audio/transcricao | Trecho final sobre mudanca cultural, pessoas, processo, seguranca, conformidade e velocidade; atribuicao ao keynote ainda precisa de escuta e conferencia. |
-| [AUD-003](../../04-midias-e-evidencias/assets/transcricoes/AUD-003__transcricao-automatica.md) | audio/transcricao | Trecho sobre agentes, contexto, reasoning, a familia AWS Continuum e conversa com cliente; transcricao automatica. |
-| [FOTO-055](../../04-midias-e-evidencias/assets/fotos/FOTO-055__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Keynote e mensagens sobre governanca, seguranca e velocidade. |
-| [FOTO-056](../../04-midias-e-evidencias/assets/fotos/FOTO-056__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Keynote e mensagens sobre governanca, seguranca e velocidade. |
-| [FOTO-057](../../04-midias-e-evidencias/assets/fotos/FOTO-057__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Registro visual do palco principal. |
-| [FOTO-060](../../04-midias-e-evidencias/assets/fotos/FOTO-060__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Mensagens sobre processo, pessoas e velocidade. |
-| [FOTO-063](../../04-midias-e-evidencias/assets/fotos/FOTO-063__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Registro visual do keynote. |
-| [FOTO-064](../../04-midias-e-evidencias/assets/fotos/FOTO-064__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Registro visual do keynote. |
+| AUD-002 (asset local em revisao) | audio/transcricao | Trecho final sobre mudanca cultural, pessoas, processo, seguranca, conformidade e velocidade; atribuicao ao keynote ainda precisa de escuta e conferencia. |
+| AUD-003 (asset local em revisao) | audio/transcricao | Trecho sobre agentes, contexto, reasoning, a familia AWS Continuum e conversa com cliente; transcricao automatica. |
+| FOTO-055 (asset local em revisao) | foto | Keynote e mensagens sobre governanca, seguranca e velocidade. |
+| FOTO-056 (asset local em revisao) | foto | Keynote e mensagens sobre governanca, seguranca e velocidade. |
+| FOTO-057 (asset local em revisao) | foto | Registro visual do palco principal. |
+| FOTO-060 (asset local em revisao) | foto | Mensagens sobre processo, pessoas e velocidade. |
+| FOTO-063 (asset local em revisao) | foto | Registro visual do keynote. |
+| FOTO-064 (asset local em revisao) | foto | Registro visual do keynote. |
 
 ## Insights
 
@@ -69,3 +71,4 @@ Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione
 ## Agradecimento
 
 Agradecimento aos palestrantes e organizacoes por compartilhar conhecimento com a comunidade AWS.
+

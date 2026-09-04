@@ -1,29 +1,29 @@
 # Videos e gravacoes
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
-> Tags: `aws-summit-2026`, `videos`, `audios`, `gravacoes`
+> Tags: `aws-summit-2026`, `videos`, `audios`, `gravacoes`, `privacidade`
 
-Videos saneados e audios preservados para apoio as transcricoes. Os videos receberam censura automatica de rostos; os audios mantem vozes. Use qualquer arquivo publicamente somente apos revisar privacidade, direitos e autorizacao de publicacao.
+Os videos e audios locais foram retirados da versao publica e do historico Git. Este indice preserva apenas contagens, duracoes e criterios para uso futuro.
 
-## Videos
+## Videos locais
 
-| ID | Arquivo | Duracao | Rostos detectados | Observacao |
-| --- | --- | --- | ---: | --- |
-| VID-001 | [VID-001](assets/videos/VID-001__2026-09-04__aws-summit-2026__censurado.mp4) | 00:00:08 | 57 | Video saneado automaticamente. Frames processados: 258. |
-| VID-002 | [VID-002](assets/videos/VID-002__2026-09-04__aws-summit-2026__censurado.mp4) | 00:00:10 | 6 | Video saneado automaticamente. Frames processados: 303. |
-| VID-003 | [VID-003](assets/videos/VID-003__2026-09-04__aws-summit-2026__censurado.mp4) | 00:00:24 | 198 | Video saneado automaticamente. Frames processados: 749. |
-| VID-004 | [VID-004](assets/videos/VID-004__2026-09-04__aws-summit-2026__censurado.mp4) | 00:00:49 | 2592 | Video saneado automaticamente. Frames processados: 1474. |
-| VID-005 | [VID-005](assets/videos/VID-005__2026-09-04__aws-summit-2026__censurado.mp4) | 00:00:06 | 441 | Video saneado automaticamente. Frames processados: 204. |
+| ID | Duracao | Rostos detectados | Status publico | Observacao |
+| --- | --- | ---: | --- | --- |
+| VID-001 | 00:00:08 | 57 | Retirado temporariamente | Video processado localmente; revisar frames e contexto antes de publicar. |
+| VID-002 | 00:00:10 | 6 | Retirado temporariamente | Video processado localmente; revisar frames e contexto antes de publicar. |
+| VID-003 | 00:00:24 | 198 | Retirado temporariamente | Video processado localmente; revisar frames e contexto antes de publicar. |
+| VID-004 | 00:00:49 | 2592 | Retirado temporariamente | Video processado localmente; revisar frames e contexto antes de publicar. |
+| VID-005 | 00:00:06 | 441 | Retirado temporariamente | Video processado localmente; revisar frames e contexto antes de publicar. |
 
-## Audios
+## Audios locais
 
-| ID | Arquivo | Duracao | Observacao |
+| ID | Duracao | Status publico | Observacao |
 | --- | --- | --- | --- |
-| AUD-001 | [AUD-001](assets/audio/AUD-001__2026-09-03-0824__gravacao-palestra.m4a) | 00:42:58 | Audio original convertido/copiado para M4A; voz preservada; revisar autorizacao antes de compartilhar. |
-| AUD-002 | [AUD-002](assets/audio/AUD-002__2026-09-03-1104__gravacao-palestra.m4a) | 00:01:18 | Audio original convertido/copiado para M4A; voz preservada; revisar autorizacao antes de compartilhar. |
-| AUD-003 | [AUD-003](assets/audio/AUD-003__2026-09-03-1106__gravacao-palestra.m4a) | 00:18:54 | Audio original convertido/copiado para M4A; voz preservada; revisar autorizacao antes de compartilhar. |
+| AUD-001 | 00:42:58 | Retirado temporariamente | Voz preservada no backup local; publicacao depende de autorizacao. |
+| AUD-002 | 00:01:18 | Retirado temporariamente | Voz preservada no backup local; publicacao depende de autorizacao. |
+| AUD-003 | 00:18:54 | Retirado temporariamente | Voz preservada no backup local; publicacao depende de autorizacao. |
 
 ## Gravacoes publicas
 
@@ -31,6 +31,13 @@ Videos saneados e audios preservados para apoio as transcricoes. Os videos receb
 - [Pesquisa por AWS Summit Sao Paulo 2026 no canal oficial](https://www.youtube.com/@AWSEventsChannel/search?query=AWS%20Summit%20S%C3%A3o%20Paulo%202026)
 - [Tabela de videos, creditos e minutagens](../06-referencias/bibliografia-e-leituras.md#gravacoes-publicas-e-youtube)
 
-Verificacao realizada em 2026-09-04: ainda nao foi localizada gravacao oficial do evento de Sao Paulo. Os videos oficiais de outros Summits devem ser tratados apenas como contexto, nunca como substitutos das gravacoes locais. Nao foram encontrados comentarios oficiais com minutagens para o evento de Sao Paulo nessa data.
+Verificacao registrada em 2026-09-04: ainda nao foi localizada gravacao oficial do evento de Sao Paulo. Os videos oficiais de outros Summits devem ser tratados apenas como contexto, nunca como substitutos das gravacoes locais.
 
-As minutagens das transcricoes locais estao nos arquivos de [transcricao automatica](transcricoes.md) e precisam de revisao por escuta manual.
+## Criterio de aceite
+
+Um audio ou video local so deve sair de `Em revisao` para `Validado` quando:
+
+- houver autorizacao adequada para voz, imagem e conteudo;
+- trechos citados tiverem revisao humana;
+- pessoas, crachas, telas internas e dados sensiveis estiverem protegidos;
+- o arquivo tiver credito, contexto e finalidade educacional claramente registrados.

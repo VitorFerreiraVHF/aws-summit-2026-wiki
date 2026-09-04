@@ -1,6 +1,6 @@
 # Arquitetura e Modernizacao
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `modernizacao`, `aws-transform`, `kiro`
@@ -37,3 +37,4 @@ flowchart LR
 - [AWS Database Migration Service](https://aws.amazon.com/dms/)
 - [AWS Schema Conversion Tool](https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html)
 - [AWS Application Migration Service](https://aws.amazon.com/application-migration-service/)
+

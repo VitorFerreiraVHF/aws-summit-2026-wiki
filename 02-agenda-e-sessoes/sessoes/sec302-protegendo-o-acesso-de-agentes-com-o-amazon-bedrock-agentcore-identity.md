@@ -1,6 +1,6 @@
 # Protegendo o acesso de agentes com o Amazon Bedrock AgentCore Identity | SEC302
 
-> Status: catalogo oficial; revisao comunitaria
+> Status: Oficial; Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `sec302`
@@ -38,25 +38,30 @@ Aprenda a implementar controles de acesso robustos para agentes de IA em aplica√
 
 - [Amazon Bedrock](https://aws.amazon.com/bedrock/)
 - [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/)
+- [AgentCore Identity - AWS Documentation](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity-getting-started.html)
 
 ## Evidencias locais
 
-Associacao automatica por conteudo visual, agenda e temas. Validar manualmente antes de citar como evidencia final da sessao.
+Associacao automatica por conteudo visual, agenda e temas. Os arquivos locais foram retirados da versao publica; validar manualmente antes de citar como evidencia final da sessao.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |
-| [FOTO-051](../../04-midias-e-evidencias/assets/fotos/FOTO-051__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-052](../../04-midias-e-evidencias/assets/fotos/FOTO-052__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-054](../../04-midias-e-evidencias/assets/fotos/FOTO-054__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-055](../../04-midias-e-evidencias/assets/fotos/FOTO-055__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-056](../../04-midias-e-evidencias/assets/fotos/FOTO-056__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-051 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-052 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-054 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-055 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-056 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
 
 ## Insights
 
 | Insight | Evidencia | Impacto | Proxima acao |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| Agentes precisam operar com identidade, permissao e limite claros, como qualquer workload critico. | Descricao oficial AWS e inventario FOTO-051 a FOTO-056 | Reduz risco de agentes acessarem dados, ferramentas ou sistemas fora do escopo. | Definir matriz de permissoes por tipo de agente e ferramenta. |
+| Autenticacao e autorizacao devem cobrir tanto acesso do usuario ao agente quanto acesso do agente a sistemas externos. | Documentacao AgentCore Identity | Fecha lacunas comuns de seguranca em fluxos agenticos. | Desenhar fluxo de inbound auth, outbound auth e auditoria para uma POC. |
+| Visibilidade de identidade e credenciais e requisito de producao, nao detalhe final. | Descricao oficial AWS | Facilita investigacao, compliance e resposta a incidente. | Conectar com [DVT203](dvt203-debug-mais-rapido-governe-melhor-ai-dlc-e-observabilidade.md) e [COP401](cop401-instrumente-visualize-e-resolva-problemas-em-sua-aplicacao-de-ia.md). |
 
 ## Agradecimento
 
 Agradecimento aos palestrantes e organizacoes por compartilhar conhecimento com a comunidade AWS.
+
+

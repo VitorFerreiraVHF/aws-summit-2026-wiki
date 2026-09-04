@@ -1,6 +1,6 @@
 # Instrumente, visualize e resolva problemas em sua aplicação de IA | COP401
 
-> Status: catalogo oficial; revisao comunitaria
+> Status: Oficial; Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `cop401`
@@ -39,25 +39,31 @@ Construa uma aplicação de IA agêntica usando o Amazon Bedrock AgentCore e o S
 - [Amazon Bedrock](https://aws.amazon.com/bedrock/)
 - [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/)
 - [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)
+- [AgentCore Observability - AWS Documentation](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-get-started.html)
+- [Strands Agents SDK](https://strandsagents.com/)
 
 ## Evidencias locais
 
-Associacao automatica por conteudo visual, agenda e temas. Validar manualmente antes de citar como evidencia final da sessao.
+Associacao automatica por conteudo visual, agenda e temas. Os arquivos locais foram retirados da versao publica; validar manualmente antes de citar como evidencia final da sessao.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |
-| [FOTO-051](../../04-midias-e-evidencias/assets/fotos/FOTO-051__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-052](../../04-midias-e-evidencias/assets/fotos/FOTO-052__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-054](../../04-midias-e-evidencias/assets/fotos/FOTO-054__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-055](../../04-midias-e-evidencias/assets/fotos/FOTO-055__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-056](../../04-midias-e-evidencias/assets/fotos/FOTO-056__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-051 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-052 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-054 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-055 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-056 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
 
 ## Insights
 
 | Insight | Evidencia | Impacto | Proxima acao |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| Instrumentar agentes desde o inicio evita que diagnostico dependa de reproduzir erro em producao. | Descricao oficial AWS e documentacao AgentCore Observability | Reduz tempo de investigacao para latencia, throttling, erro e consumo excessivo de tokens. | Criar baseline de telemetria para agentes com CloudWatch e OpenTelemetry. |
+| Dashboards de IA generativa devem expor qualidade operacional e custo, nao apenas disponibilidade tecnica. | Descricao oficial AWS | Ajuda engenharia, operacao e lideranca a enxergar impacto real dos agentes. | Definir paineis com latencia, erro, tokens, chamadas de ferramentas e traces. |
+| A combinacao Bedrock AgentCore, Strands Agent SDK, ADOT e CloudWatch sugere um caminho pratico para agentes observaveis. | Referencias oficiais relacionadas | Facilita transformar demo em aplicacao operavel. | Preparar uma POC curta baseada em agente instrumentado com traces e metricas. |
 
 ## Agradecimento
 
 Agradecimento aos palestrantes e organizacoes por compartilhar conhecimento com a comunidade AWS.
+
+

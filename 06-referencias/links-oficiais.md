@@ -1,6 +1,6 @@
 # Links oficiais
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `referencias`, `aws`
@@ -54,3 +54,4 @@ Mantenha aqui links publicos oficiais ou de palestrantes/parceiros sobre o event
 | --- | --- | --- | --- |
 | AWS Summit Sao Paulo 2026 | AWS | [Pagina oficial](https://aws.amazon.com/pt/events/summits/sao-paulo/) | Fonte principal do evento |
 | Agenda AWS Summit Sao Paulo 2026 | AWS | [Agenda oficial](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/) | Fonte do catalogo de sessoes |
+

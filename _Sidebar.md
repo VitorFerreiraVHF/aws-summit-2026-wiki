@@ -4,6 +4,7 @@
 - [Como usar](00-como-usar.md)
   - [Fluxo de captura](00-como-usar/fluxo-de-captura.md)
   - [Taxonomia de tags](00-como-usar/taxonomia-de-tags.md)
+  - [Status editorial](00-como-usar/status-editorial.md)
   - [Padroes de nomeacao](00-como-usar/padroes-de-nomeacao.md)
   - [Checklist de publicacao](00-como-usar/checklist-de-publicacao.md)
 - [Resumo executivo](01-resumo-executivo.md)

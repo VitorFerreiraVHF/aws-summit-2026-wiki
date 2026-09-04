@@ -1,6 +1,6 @@
 # Plano de divulgacao interna
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `divulgacao`, `comunicacao`
@@ -19,4 +19,5 @@
 | Data | Acao | Publico | Material | Status |
 | --- | --- | --- | --- | --- |
 | YYYY-MM-DD |  |  |  | aberto |
+
 

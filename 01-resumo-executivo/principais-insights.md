@@ -1,6 +1,6 @@
 # Principais insights
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `insights`, `resumo-executivo`
@@ -31,3 +31,4 @@
 | Fotos 037-054 | AgentCore, AWS Context, Managed Knowledge Base, Web Search, AWS Continuum e seguranca | [Generative AI e Machine Learning](../03-topicos/generative-ai-machine-learning.md) |
 | Fotos 055-064 | Mensagens executivas e keynote | [Sumario para lideranca](sumario-para-lideranca.md) |
 | Fotos 081-083 | Workshop de SQL Server com AWS Transform | [MAM311](../02-agenda-e-sessoes/sessoes/mam311-acelerando-a-modernizacao-de-net-e-sql-server-com-ia-agentica.md) |
+

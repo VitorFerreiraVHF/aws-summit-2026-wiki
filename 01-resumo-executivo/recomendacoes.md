@@ -1,6 +1,6 @@
 # Recomendacoes
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `recomendacoes`, `acoes`
@@ -22,3 +22,4 @@
 - Experimentar um fluxo de AI-DLC com Kiro/Amazon Q Developer/AWS Transform em uma aplicacao de baixo risco.
 - Medir lead time, taxa de retrabalho, cobertura de teste, custo por execucao e incidentes, nao apenas linhas de codigo geradas.
 - Validar guardrails de seguranca para agentes antes de permitir acoes em sistemas produtivos.
+

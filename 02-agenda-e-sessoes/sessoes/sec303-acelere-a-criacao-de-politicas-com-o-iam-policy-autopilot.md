@@ -1,6 +1,6 @@
 # Acelere a criação de Políticas com o IAM Policy Autopilot | SEC303
 
-> Status: catalogo oficial; revisao comunitaria
+> Status: Oficial; Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `sec303`
@@ -40,15 +40,15 @@ O IAM Policy Autopilot é um servidor MCP de código aberto que acelera a criaç
 
 ## Evidencias locais
 
-Associacao automatica por conteudo visual, agenda e temas. Validar manualmente antes de citar como evidencia final da sessao.
+Associacao automatica por conteudo visual, agenda e temas. Os arquivos locais foram retirados da versao publica; validar manualmente antes de citar como evidencia final da sessao.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |
-| [FOTO-051](../../04-midias-e-evidencias/assets/fotos/FOTO-051__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-052](../../04-midias-e-evidencias/assets/fotos/FOTO-052__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-054](../../04-midias-e-evidencias/assets/fotos/FOTO-054__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-055](../../04-midias-e-evidencias/assets/fotos/FOTO-055__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
-| [FOTO-056](../../04-midias-e-evidencias/assets/fotos/FOTO-056__2026-09-04__aws-summit-2026__censurado.jpg) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-051 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-052 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-054 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-055 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
+| FOTO-056 (asset local em revisao) | foto | Governanca, seguranca e AWS Continuum: Evidencias visuais reforcando que governanca e seguranca aceleram a entrega quando entram no ciclo de desenvolvimento. |
 
 ## Insights
 
@@ -59,3 +59,5 @@ Associacao automatica por conteudo visual, agenda e temas. Validar manualmente a
 ## Agradecimento
 
 Agradecimento aos palestrantes e organizacoes por compartilhar conhecimento com a comunidade AWS.
+
+

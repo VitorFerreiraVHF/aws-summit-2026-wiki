@@ -1,6 +1,6 @@
 # Serverless, Containers e Kubernetes
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `serverless`, `containers`, `kubernetes`
@@ -19,3 +19,4 @@
 - [Amazon ECS](https://aws.amazon.com/ecs/)
 - [Amazon EKS](https://aws.amazon.com/eks/)
 - [Amazon API Gateway](https://aws.amazon.com/api-gateway/)
+

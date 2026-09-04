@@ -1,6 +1,6 @@
 # Aprendizados por time
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `aprendizado`, `times`
@@ -15,4 +15,5 @@
 | Seguranca |  |  |  |  |
 | Produto |  |  |  |  |
 | Comercial |  |  |  |  |
+
 

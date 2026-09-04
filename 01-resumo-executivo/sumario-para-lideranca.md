@@ -1,6 +1,6 @@
 # Sumario para lideranca
 
-> Status: revisao comunitaria informada por evidencias
+> Status: Em revisao informada por evidencias
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `lideranca`, `resumo-executivo`
 
@@ -38,3 +38,4 @@ O AWS Summit Sao Paulo 2026 reforcou uma mudanca de foco: IA agentica precisa sa
 - [Agenda oficial](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 - [AWS Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/)
 - [AWS Transform](https://aws.amazon.com/transform/)
+

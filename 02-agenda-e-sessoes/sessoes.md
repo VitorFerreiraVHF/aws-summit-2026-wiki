@@ -1,6 +1,6 @@
 # Paginas por sessao
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `agenda`, `sessoes`
@@ -241,3 +241,4 @@ Indice das paginas individuais geradas a partir do catalogo oficial da AWS.
 | 16:45 | MAM310-R1 | [Modernize suas aplicações .NET com AWS Transform e Kiro [REPETIÇÃO] \| MAM310-R1](sessoes/mam310-r1-modernize-suas-aplicacoes-net-com-aws-transform-e-kiro-repeticao.md) | Migracoes |
 | 17:00 | STP205 | [DBOps Autônomo: IA e Agentes para Manutenção de Bancos de Dados \| STP205](sessoes/stp205-dbops-autonomo-ia-e-agentes-para-manutencao-de-bancos-de-dados.md) | Inteligencia artificial, Bancos de dados |
 | 17:00 | TNC106 | [Teste Seus Conhecimentos: AWS Skill Builder Trivia \| TNC106](sessoes/tnc106-teste-seus-conhecimentos-aws-skill-builder-trivia.md) | Inteligencia artificial, Cloud operations, Serverless |
+

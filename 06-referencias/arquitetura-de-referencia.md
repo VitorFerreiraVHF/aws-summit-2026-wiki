@@ -1,6 +1,6 @@
 # Arquitetura de referencia
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `arquitetura`, `referencia`
@@ -33,3 +33,4 @@ flowchart LR
   code --> deploy[Deploy em EC2/ECS/EKS/serverless]
   deploy --> operate[Operar, medir e otimizar]
 ```
+

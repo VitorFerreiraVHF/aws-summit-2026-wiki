@@ -1,6 +1,6 @@
 # Mapa de temas
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `mapa`, `temas`
@@ -36,3 +36,4 @@ flowchart LR
   seguranca --> continuum[AWS Continuum]
   seguranca --> threat[Threat modeling / code review]
 ```
+

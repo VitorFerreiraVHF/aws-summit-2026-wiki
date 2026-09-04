@@ -1,6 +1,6 @@
 # Casos de uso por industria
 
-> Status: revisao comunitaria
+> Status: Em revisao
 > Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `industria`, `case`, `cliente`, `setor`
@@ -28,4 +28,5 @@
 | Cliente/Segmento | Ideia | Valor esperado | Proxima acao |
 | --- | --- | --- | --- |
 |  |  |  |  |
+
 
