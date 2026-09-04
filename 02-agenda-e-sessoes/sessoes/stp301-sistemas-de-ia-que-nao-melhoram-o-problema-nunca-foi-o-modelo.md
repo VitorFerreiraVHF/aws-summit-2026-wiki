@@ -1,7 +1,7 @@
 # Sistemas de IA Que Não Melhoram: O Problema Nunca Foi o Modelo | STP301
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `stp301`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | STP301 |
-| Horario | 14:00 BET |
+| Horario | 14:00 BRT |
 | Local | AWS Startups |
 | Tipo | Palestra para startups |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ Sistemas de IA em produção rodam milhares de experimentos por dia e descartam 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

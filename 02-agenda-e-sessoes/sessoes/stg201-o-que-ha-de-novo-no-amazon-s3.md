@@ -1,7 +1,7 @@
 # O que há de novo no Amazon S3 | STG201
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `stg201`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | STG201 |
-| Horario | 12:30 BET |
+| Horario | 12:30 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 3 Branco |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ O Amazon S3 continua evoluindo como a base de armazenamento para aplicações mo
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

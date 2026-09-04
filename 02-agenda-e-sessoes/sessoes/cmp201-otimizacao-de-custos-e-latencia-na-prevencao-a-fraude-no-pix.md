@@ -1,7 +1,7 @@
 # Otimização de custos e latência na prevenção à fraude no PIX | CMP201
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `cmp201`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | CMP201 |
-| Horario | 13:30 BET |
+| Horario | 13:30 BRT |
 | Local | Pavilhão 3 \| Palco 12 |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ A Topaz protege todas as transações PIX no Brasil — mais de 100 milhões de 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

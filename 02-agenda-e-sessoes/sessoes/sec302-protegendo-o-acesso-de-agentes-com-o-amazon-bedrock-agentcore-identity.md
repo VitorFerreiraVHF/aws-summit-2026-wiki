@@ -1,13 +1,13 @@
 # Protegendo o acesso de agentes com o Amazon Bedrock AgentCore Identity | SEC302
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `sec302`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | SEC302 |
-| Horario | 16:00 BET |
+| Horario | 16:00 BRT |
 | Local | Pavilhão 4 \| Sessão Interativa 2 |
 | Tipo | Sessão Interativa |
 | Nivel | 300 – Advanced |

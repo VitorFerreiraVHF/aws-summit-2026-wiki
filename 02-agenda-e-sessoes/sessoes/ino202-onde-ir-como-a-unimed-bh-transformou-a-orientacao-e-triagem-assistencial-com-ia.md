@@ -1,7 +1,7 @@
 # Onde Ir: Como a Unimed BH transformou a orientação e triagem assistencial com IA | INO202
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ino202`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | INO202 |
-| Horario | 12:30 BET |
+| Horario | 12:30 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 2 Azul |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ A Unimed BH transformou a orientação ao paciente sobre o ponto de atendimento 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

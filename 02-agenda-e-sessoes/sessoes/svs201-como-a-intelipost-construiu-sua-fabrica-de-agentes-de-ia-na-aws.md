@@ -1,7 +1,7 @@
 # Como a Intelipost Construiu sua Fábrica de Agentes de IA na AWS | SVS201
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `svs201`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | SVS201 |
-| Horario | 16:30 BET |
+| Horario | 16:30 BRT |
 | Local | Pavilhão 3 \| Palco 9 |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -42,7 +42,7 @@ Descubra como a Intelipost projetou uma plataforma interna de IA na AWS, permiti
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

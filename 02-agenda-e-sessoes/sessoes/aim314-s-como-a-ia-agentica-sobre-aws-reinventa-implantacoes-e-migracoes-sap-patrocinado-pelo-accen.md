@@ -1,7 +1,7 @@
 # Como a IA Agêntica sobre AWS reinventa implantações e migrações SAP (patrocinado pelo Accenture) | AIM314-S
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `aim314-s`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | AIM314-S |
-| Horario | 15:00 BET |
+| Horario | 15:00 BRT |
 | Local | Teatro Expo |
 | Tipo | Palestra relâmpago |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ Cognitive Digital Brain é uma plataforma agêntica Accenture desenvolvida na AW
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

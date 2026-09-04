@@ -223,8 +223,8 @@ def build_palestrantes(sessions: list[dict[str, Any]]) -> None:
     lines = [
         "# Palestrantes e contatos",
         "",
-        "> Status: rascunho",
-        "> Dono:",
+        "> Status: revisao comunitaria",
+        "> Dono: Vitor Ferreira",
         "> Ultima revisao: 2026-09-04",
         "> Tags: `aws-summit-2026`, `creditos`, `palestrantes`",
         "",
@@ -276,8 +276,8 @@ def build_trilhas(sessions: list[dict[str, Any]]) -> None:
     content = f"""
     # Trilhas e palcos
 
-    > Status: rascunho
-    > Dono:
+    > Status: revisao comunitaria
+    > Dono: Vitor Ferreira
     > Ultima revisao: 2026-09-04
     > Tags: `aws-summit-2026`, `agenda`, `trilhas`
 
@@ -303,6 +303,8 @@ def build_trilhas(sessions: list[dict[str, Any]]) -> None:
 
     {table(location_counts, limit=40)}
     """
+    content = textwrap.dedent(content)
+    content = "\n".join(line[4:] if line.startswith("    ") else line for line in content.splitlines())
     write("02-agenda-e-sessoes/trilhas-e-palcos.md", content)
 
 
@@ -315,8 +317,8 @@ def build_media_pages(media: list[dict[str, Any]], transcripts: list[dict[str, A
     lines = [
         "# Indexacao de arquivos",
         "",
-        "> Status: rascunho",
-        "> Dono:",
+        "> Status: revisao comunitaria",
+        "> Dono: Vitor Ferreira",
         "> Ultima revisao: 2026-09-04",
         "> Tags: `aws-summit-2026`, `midias`, `evidencias`",
         "",
@@ -364,8 +366,8 @@ def build_media_pages(media: list[dict[str, Any]], transcripts: list[dict[str, A
     photo_lines = [
         "# Fotos",
         "",
-        "> Status: rascunho",
-        "> Dono:",
+        "> Status: revisao comunitaria",
+        "> Dono: Vitor Ferreira",
         "> Ultima revisao: 2026-09-04",
         "> Tags: `aws-summit-2026`, `fotos`, `evidencias`",
         "",
@@ -389,8 +391,8 @@ def build_media_pages(media: list[dict[str, Any]], transcripts: list[dict[str, A
     av_lines = [
         "# Videos e gravacoes",
         "",
-        "> Status: rascunho",
-        "> Dono:",
+        "> Status: revisao comunitaria",
+        "> Dono: Vitor Ferreira",
         "> Ultima revisao: 2026-09-04",
         "> Tags: `aws-summit-2026`, `videos`, `audios`, `gravacoes`",
         "",
@@ -407,7 +409,7 @@ def build_media_pages(media: list[dict[str, Any]], transcripts: list[dict[str, A
     av_lines.extend(["", "## Audios", "", "| ID | Arquivo | Duracao | Observacao |", "| --- | --- | --- | --- |"])
     for item in media:
         if item.get("type") == "audio":
-            av_lines.append(f"| {item['id']} | {media_link(item)} | {fmt_duration(item.get('duration_seconds'))} | {md_cell(item.get('notes')).replace('copiatado', 'copiado')} |")
+            av_lines.append(f"| {item['id']} | {media_link(item)} | {fmt_duration(item.get('duration_seconds'))} | {md_cell(item.get('notes'))} |")
     av_lines.extend(
         [
             "",
@@ -427,8 +429,8 @@ def build_media_pages(media: list[dict[str, Any]], transcripts: list[dict[str, A
     tr_lines = [
         "# Transcricoes",
         "",
-        "> Status: rascunho",
-        "> Dono:",
+        "> Status: transcricoes automaticas; revisao humana pendente",
+        "> Dono: Vitor Ferreira",
         "> Ultima revisao: 2026-09-04",
         "> Tags: `aws-summit-2026`, `transcricoes`, `audio`",
         "",
@@ -461,8 +463,8 @@ def build_insight_pages(sessions: list[dict[str, Any]], media: list[dict[str, An
         f"""
         # Principais insights
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `insights`, `resumo-executivo`
 
@@ -500,8 +502,8 @@ def build_insight_pages(sessions: list[dict[str, Any]], media: list[dict[str, An
         """
         # Mapa de temas
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `mapa`, `temas`
 
@@ -544,8 +546,8 @@ def build_insight_pages(sessions: list[dict[str, Any]], media: list[dict[str, An
         """
         # Recomendacoes
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `recomendacoes`, `acoes`
 
@@ -576,8 +578,8 @@ def build_topic_pages() -> None:
         f"""
         # Arquitetura e Modernizacao
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `modernizacao`, `aws-transform`, `kiro`
 
@@ -621,8 +623,8 @@ def build_topic_pages() -> None:
         f"""
         # Generative AI e Machine Learning
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `genai`, `agentic-ai`, `bedrock`
 
@@ -668,8 +670,8 @@ def build_topic_pages() -> None:
         """
         # Seguranca, Identidade e Compliance
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `seguranca`, `governanca`, `compliance`
 
@@ -700,8 +702,8 @@ def build_topic_pages() -> None:
         f"""
         # DevOps e Platform Engineering
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `devops`, `platform-engineering`, `ai-dlc`
 
@@ -738,8 +740,8 @@ def build_topic_pages() -> None:
         f"""
         # Dados e Analytics
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `dados`, `analytics`, `rag`
 
@@ -763,8 +765,8 @@ def build_topic_pages() -> None:
         f"""
         # Serverless, Containers e Kubernetes
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `serverless`, `containers`, `kubernetes`
 
@@ -792,8 +794,8 @@ def build_knowledge_pages() -> None:
         """
         # Padroes e boas praticas
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `boas-praticas`
 
@@ -810,8 +812,8 @@ def build_knowledge_pages() -> None:
         """
         # Riscos e alertas
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `riscos`
 
@@ -829,8 +831,8 @@ def build_knowledge_pages() -> None:
         """
         # Oportunidades para POCs
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `poc`, `ideias`
 
@@ -848,8 +850,8 @@ def build_reference_pages() -> None:
     links_lines = [
         "# Links oficiais",
         "",
-        "> Status: rascunho",
-        "> Dono:",
+        "> Status: referencia comunitaria",
+        "> Dono: Vitor Ferreira",
         "> Ultima revisao: 2026-09-04",
         "> Tags: `aws-summit-2026`, `referencias`, `aws`",
         "",
@@ -881,8 +883,8 @@ def build_reference_pages() -> None:
         """
         # Glossario
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `glossario`
 
@@ -909,8 +911,8 @@ def build_reference_pages() -> None:
         """
         # Arquitetura de referencia
 
-        > Status: rascunho
-        > Dono:
+        > Status: revisao comunitaria
+        > Dono: Vitor Ferreira
         > Ultima revisao: 2026-09-04
         > Tags: `aws-summit-2026`, `arquitetura`, `referencia`
 
@@ -978,7 +980,7 @@ def patch_selected_session_pages(sessions: list[dict[str, Any]], media: list[dic
                 ]
             )
             text = text.replace(
-                "## Evidencias locais\n\nAdicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.\n\n| Evidencia | Tipo | Observacao |\n| --- | --- | --- |\n|  |  |  |\n\n## Insights",
+                "## Evidencias locais\n\nAinda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.\n\n| Evidencia | Tipo | Observacao |\n| --- | --- | --- |\n|  |  |  |\n\n## Insights",
                 evidence,
             )
             page.write_text(text, encoding="utf-8")

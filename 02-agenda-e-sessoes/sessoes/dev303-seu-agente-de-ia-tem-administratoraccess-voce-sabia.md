@@ -1,7 +1,7 @@
 # Seu Agente de IA Tem AdministratorAccess. Você Sabia? | DEV303
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dev303`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DEV303 |
-| Horario | 14:30 BET |
+| Horario | 14:30 BRT |
 | Local | AWS Comunidade de desenvolvedores |
 | Tipo | Papo de desenvolvedores |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ Agentes de IA estão indo para produção em velocidade recorde, quase sempre co
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

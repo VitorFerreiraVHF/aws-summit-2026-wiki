@@ -1,11 +1,11 @@
 # Videos e gravacoes
 
-> Status: rascunho
-> Dono:
+> Status: revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `videos`, `audios`, `gravacoes`
 
-Videos saneados e audios preservados para apoio as transcricoes. Use o material como evidencia interna e revise qualquer trecho antes de citar publicamente.
+Videos saneados e audios preservados para apoio as transcricoes. Os videos receberam censura automatica de rostos; os audios mantem vozes. Use qualquer arquivo publicamente somente apos revisar privacidade, direitos e autorizacao de publicacao.
 
 ## Videos
 
@@ -21,9 +21,9 @@ Videos saneados e audios preservados para apoio as transcricoes. Use o material 
 
 | ID | Arquivo | Duracao | Observacao |
 | --- | --- | --- | --- |
-| AUD-001 | [AUD-001](assets/audio/AUD-001__2026-09-03-0824__gravacao-palestra.m4a) | 00:42:58 | Audio original convertido/copiado para M4A para consulta privada e transcricao. |
-| AUD-002 | [AUD-002](assets/audio/AUD-002__2026-09-03-1104__gravacao-palestra.m4a) | 00:01:18 | Audio original convertido/copiado para M4A para consulta privada e transcricao. |
-| AUD-003 | [AUD-003](assets/audio/AUD-003__2026-09-03-1106__gravacao-palestra.m4a) | 00:18:54 | Audio original convertido/copiado para M4A para consulta privada e transcricao. |
+| AUD-001 | [AUD-001](assets/audio/AUD-001__2026-09-03-0824__gravacao-palestra.m4a) | 00:42:58 | Audio original convertido/copiado para M4A; voz preservada; revisar autorizacao antes de compartilhar. |
+| AUD-002 | [AUD-002](assets/audio/AUD-002__2026-09-03-1104__gravacao-palestra.m4a) | 00:01:18 | Audio original convertido/copiado para M4A; voz preservada; revisar autorizacao antes de compartilhar. |
+| AUD-003 | [AUD-003](assets/audio/AUD-003__2026-09-03-1106__gravacao-palestra.m4a) | 00:18:54 | Audio original convertido/copiado para M4A; voz preservada; revisar autorizacao antes de compartilhar. |
 
 ## Gravacoes publicas
 

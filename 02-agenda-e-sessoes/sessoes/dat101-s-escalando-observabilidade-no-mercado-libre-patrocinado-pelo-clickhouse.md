@@ -1,7 +1,7 @@
 # Escalando observabilidade no Mercado Libre (patrocinado pelo ClickHouse) | DAT101-S
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dat101-s`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DAT101-S |
-| Horario | 13:30 BET |
+| Horario | 13:30 BRT |
 | Local | Teatro Expo |
 | Tipo | Palestra relâmpago |
 | Nivel | 100 – Foundational |
@@ -40,7 +40,7 @@ Veja como o Mercado Libre migrou sua plataforma de observabilidade do BigQuery p
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

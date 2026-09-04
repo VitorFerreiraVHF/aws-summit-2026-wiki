@@ -1,7 +1,7 @@
 # Investigação de fraudes 5x mais rápida com Neptune no Santander | DAT201
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dat201`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DAT201 |
-| Horario | 12:30 BET |
+| Horario | 12:30 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 6 Turquesa |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ A Segurança Corporativa do Santander adotou Amazon Neptune como banco de dados 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

@@ -1,13 +1,13 @@
 # Debug mais rápido, governe melhor: AI-DLC e observabilidade | DVT203
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dvt203`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DVT203 |
-| Horario | 12:30 BET |
+| Horario | 12:30 BRT |
 | Local | Pavilhão 4 \| Sessão Interativa 1 |
 | Tipo | Sessão Interativa |
 | Nivel | 200 – Intermediate |

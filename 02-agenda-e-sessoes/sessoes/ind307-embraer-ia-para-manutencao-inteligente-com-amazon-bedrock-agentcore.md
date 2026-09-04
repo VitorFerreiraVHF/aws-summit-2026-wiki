@@ -1,7 +1,7 @@
 # Embraer: IA para manutenção inteligente com Amazon Bedrock AgentCore | IND307
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind307`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND307 |
-| Horario | 09:30 BET |
+| Horario | 09:30 BRT |
 | Local | AWS para Industrias |
 | Tipo | Palestra relâmpago |
 | Nivel | 300 – Advanced |
@@ -41,7 +41,7 @@ A Embraer, terceira maior fabricante de aeronaves comerciais do mundo, construiu
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

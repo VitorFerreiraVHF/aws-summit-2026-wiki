@@ -1,7 +1,7 @@
 # Tecban moderniza a experiência do cliente com Amazon Connect e IA | BIZ202
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `biz202`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | BIZ202 |
-| Horario | 16:15 BET |
+| Horario | 16:15 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 5 Rosa |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ A Tecban, responsável pela gestão da rede Banco24Horas, transformou sua opera�
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

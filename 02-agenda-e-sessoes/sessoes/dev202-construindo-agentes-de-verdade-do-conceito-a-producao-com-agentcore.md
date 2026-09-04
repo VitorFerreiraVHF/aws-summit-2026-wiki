@@ -1,7 +1,7 @@
 # Construindo agentes de verdade: do conceito à produção com AgentCore | DEV202
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dev202`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DEV202 |
-| Horario | 16:45 BET |
+| Horario | 16:45 BRT |
 | Local | AWS Comunidade de desenvolvedores |
 | Tipo | Papo de desenvolvedores |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ Saímos do hype de prompt e entramos no caos dos agentes. Todo mundo fala de sis
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

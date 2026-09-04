@@ -1,13 +1,13 @@
 # Observabilidade inteligente: reduza complexidade com Amazon CloudWatch | COP402
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `cop402`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | COP402 |
-| Horario | 15:00 BET |
+| Horario | 15:00 BRT |
 | Local | Sala 207 \| Sessão sobre Programação |
 | Tipo | Sessão sobre Programação |
 | Nivel | 400 – Expert |
@@ -40,7 +40,7 @@ Aplicações modernas são cada vez mais distribuídas e complexas, mas as ferra
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

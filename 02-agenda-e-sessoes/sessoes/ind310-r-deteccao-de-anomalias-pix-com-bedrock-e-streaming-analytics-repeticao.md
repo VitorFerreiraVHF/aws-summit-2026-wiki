@@ -1,13 +1,13 @@
 # Detecção de Anomalias PIX com Bedrock e Streaming Analytics [REPETIÇÃO] | IND310-R
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind310-r`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND310-R |
-| Horario | 16:15 BET |
+| Horario | 16:15 BRT |
 | Local | Sala 207 \| Sessão sobre Programação |
 | Tipo | Sessão sobre Programação |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ O sistema PIX do Brasil processa bilhões de transações mensalmente, tornando 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

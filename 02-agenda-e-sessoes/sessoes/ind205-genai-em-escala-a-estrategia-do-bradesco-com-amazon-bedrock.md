@@ -1,7 +1,7 @@
 # GenAI em Escala: A Estratégia do Bradesco com Amazon Bedrock | IND205
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind205`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND205 |
-| Horario | 08:45 BET |
+| Horario | 08:45 BRT |
 | Local | AWS para Industrias |
 | Tipo | Palestra relâmpago |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ O Bradesco opera mais de 830 casos de uso de IA generativa em produção. Para s
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

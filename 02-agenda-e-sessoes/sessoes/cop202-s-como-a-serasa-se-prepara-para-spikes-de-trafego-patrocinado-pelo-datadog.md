@@ -1,7 +1,7 @@
 # Como a Serasa se prepara para spikes de tráfego? (patrocinado pelo Datadog) | COP202-S
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `cop202-s`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | COP202-S |
-| Horario | 13:15 BET |
+| Horario | 13:15 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 1 Vermelho |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ Você anda perdendo o sono com picos de tráfego que podem ser gigantescos e aum
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

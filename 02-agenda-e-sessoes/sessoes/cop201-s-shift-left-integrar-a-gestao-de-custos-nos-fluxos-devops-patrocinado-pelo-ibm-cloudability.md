@@ -1,7 +1,7 @@
 # Shift Left: Integrar a gestão de custos nos fluxos DevOps (patrocinado pelo IBM Cloudability) | COP201-S
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `cop201-s`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | COP201-S |
-| Horario | 14:30 BET |
+| Horario | 14:30 BRT |
 | Local | AWS Lounge de parceiros estratégicos |
 | Tipo | Palestra relâmpago |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ Muitas vezes, a colaboração entre FinOps e Engenharia ocorre de forma reativa 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

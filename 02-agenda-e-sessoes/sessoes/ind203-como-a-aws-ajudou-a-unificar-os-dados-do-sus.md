@@ -1,13 +1,13 @@
 # Como a AWS ajudou a unificar os dados do SUS | IND203
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind203`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND203 |
-| Horario | 15:00 BET |
+| Horario | 15:00 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 5 Rosa |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ O Sistema Único de Saúde é um dos maiores sistemas de saúde pública do mund
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

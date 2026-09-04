@@ -1,6 +1,6 @@
 # Ideias de PoC
 
-> Status: rascunho priorizado
+> Status: revisao comunitaria priorizada
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `poc`, `ideias`
 

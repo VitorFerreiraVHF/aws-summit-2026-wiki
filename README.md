@@ -4,7 +4,15 @@ Esta wiki foi criada para organizar anotacoes, fotos, gravacoes, transcricoes, r
 
 O projeto tem finalidade exclusivamente comunitaria e sem fins lucrativos: registrar aprendizados, melhorar a experiencia de consulta e compartilhar conhecimento com a comunidade AWS e interessados. Veja a [licenca de uso comunitario](LICENSE.md).
 
-Use a [Home](Home.md) como ponto de entrada principal.
+Use a [Home](Home.md) como ponto de entrada principal. O repositorio foi publicado para facilitar a consulta e o compartilhamento gratuito de conhecimento.
+
+## Transparencia da publicacao
+
+- O catalogo e os metadados de sessoes vem da [agenda oficial da AWS](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/).
+- Insights, organizacao, transcricoes e associacoes com fotos sao curadoria comunitaria de Vitor Ferreira e nao representam a AWS.
+- Fotos e videos tiveram censura automatica de rostos, mas exigem revisao humana antes de serem republicados em outros canais.
+- Audios preservam vozes e transcricoes automaticas podem conter erros; confirme autorizacao e revise trechos antes de divulgar como citacao.
+- Materiais de terceiros continuam sujeitos aos direitos de seus titulares. Consulte a [licenca](LICENSE.md) e os creditos de cada fonte.
 
 ## Status da base
 

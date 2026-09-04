@@ -1,13 +1,13 @@
 # OpenAI na AWS: Um Deep Dive Técnico em Modelos Frontier e Codex | AIM311
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `aim311`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | AIM311 |
-| Horario | 09:00 BET |
+| Horario | 09:00 BRT |
 | Local | Sala 210 ABC \| Sessão sobre Programação |
 | Tipo | Sessão sobre Programação |
 | Nivel | 300 – Advanced |
@@ -41,7 +41,7 @@ Explore como OpenAI na AWS transforma o caminho da experimentação à produçã
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

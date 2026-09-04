@@ -1,7 +1,7 @@
 # Do COBOL à nuvem usando AWS Transform e Kiro | CMP202
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `cmp202`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | CMP202 |
-| Horario | 13:30 BET |
+| Horario | 13:30 BRT |
 | Local | Pavilhão 4 \| Sessão Interativa 2 |
 | Tipo | Sessão Interativa |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ A modernização do mainframe é frequentemente vista como um empreendimento plu
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

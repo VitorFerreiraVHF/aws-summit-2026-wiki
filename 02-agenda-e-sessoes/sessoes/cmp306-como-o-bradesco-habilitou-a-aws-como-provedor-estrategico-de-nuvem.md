@@ -1,7 +1,7 @@
 # Como o Bradesco Habilitou a AWS como Provedor Estratégico de Nuvem | CMP306
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `cmp306`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | CMP306 |
-| Horario | 16:15 BET |
+| Horario | 16:15 BRT |
 | Local | Sala 208 ABC \| Sessão sobre Programação & Sessão paralela |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ O Bradesco atende mais de 74 milhões de clientes em uma infraestrutura híbrida
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

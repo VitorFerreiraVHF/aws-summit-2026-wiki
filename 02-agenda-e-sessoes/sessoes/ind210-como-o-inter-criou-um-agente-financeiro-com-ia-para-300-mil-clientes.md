@@ -1,7 +1,7 @@
 # Como o Inter Criou um Agente Financeiro com IA para 300 Mil Clientes | IND210
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind210`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND210 |
-| Horario | 14:15 BET |
+| Horario | 14:15 BRT |
 | Local | AWS para Industrias |
 | Tipo | Palestra relâmpago |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ O Inter enfrentava um desafio: 44M+ de clientes com acesso a dados transacionais
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

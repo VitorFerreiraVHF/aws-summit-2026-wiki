@@ -1,7 +1,7 @@
 # DirecTV e Amazon LEO: transformando a conectividade na América Latina | IND301
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind301`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND301 |
-| Horario | 16:30 BET |
+| Horario | 16:30 BRT |
 | Local | AWS para Industrias |
 | Tipo | Palestra relâmpago |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ A falta de conectividade continua sendo um desafio crítico na América Latina. 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

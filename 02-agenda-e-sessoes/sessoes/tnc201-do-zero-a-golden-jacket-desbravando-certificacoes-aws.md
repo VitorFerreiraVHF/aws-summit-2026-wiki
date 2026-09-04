@@ -1,7 +1,7 @@
 # Do zero à Golden Jacket: desbravando certificações AWS | TNC201
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `tnc201`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | TNC201 |
-| Horario | 09:30 BET |
+| Horario | 09:30 BRT |
 | Local | AWS Treinamento e Certificação |
 | Tipo | Palestra relâmpago |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ Prepare-se para as certificações AWS da forma mais eficiente. Aprenda com uma 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

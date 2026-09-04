@@ -1,7 +1,7 @@
 # Automatizando Conformidade Empresarial com IA Multi-Agente na AWS | NTA108
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `nta108`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | NTA108 |
-| Horario | 09:30 BET |
+| Horario | 09:30 BRT |
 | Local | Novo na AWS |
 | Tipo | Palestra relâmpago |
 | Nivel | 100 – Foundational |
@@ -40,7 +40,7 @@ Fluxos de trabalho manuais de conformidade não escalam quando vulnerabilidades 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

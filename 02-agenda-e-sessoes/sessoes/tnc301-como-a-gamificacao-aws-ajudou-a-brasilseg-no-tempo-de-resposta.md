@@ -1,7 +1,7 @@
 # Como a gamificação AWS ajudou a BrasilSeg no tempo de resposta | TNC301
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `tnc301`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | TNC301 |
-| Horario | 16:15 BET |
+| Horario | 16:15 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 3 Branco |
 | Tipo | Sessão paralela |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ Nesta sessão, a BrasilSeg compartilha como redesenhou sua jornada de capacitaç
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

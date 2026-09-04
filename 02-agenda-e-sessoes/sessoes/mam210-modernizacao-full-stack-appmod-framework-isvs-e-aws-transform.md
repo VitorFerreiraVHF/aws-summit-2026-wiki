@@ -1,13 +1,13 @@
 # Modernização full-stack: AppMod Framework, ISVs e AWS Transform | MAM210
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `mam210`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | MAM210 |
-| Horario | 13:45 BET |
+| Horario | 13:45 BRT |
 | Local | Pavilhão 3 \| Sessão Interativa 5 |
 | Tipo | Sessão Interativa |
 | Nivel | 200 – Intermediate |

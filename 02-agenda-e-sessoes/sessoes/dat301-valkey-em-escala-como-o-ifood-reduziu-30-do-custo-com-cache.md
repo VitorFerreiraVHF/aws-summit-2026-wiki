@@ -1,7 +1,7 @@
 # Valkey em Escala: como o iFood reduziu 30% do custo com cache | DAT301
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dat301`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DAT301 |
-| Horario | 15:00 BET |
+| Horario | 15:00 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 6 Turquesa |
 | Tipo | Sessão paralela |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ O Valkey, fork open source do Redis mantido pela Linux Foundation, está redefin
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

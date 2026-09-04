@@ -1,7 +1,7 @@
 # Vela: Como a Stone acelerou 2.000+ pessoas com sua Plataforma de AI | DVT302
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dvt302`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DVT302 |
-| Horario | 16:15 BET |
+| Horario | 16:15 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 2 Azul |
 | Tipo | Sessão paralela |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ Descubra como a Stone, uma das maiores fintechs da América Latina, construiu a 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

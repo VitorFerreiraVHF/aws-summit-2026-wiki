@@ -1,7 +1,7 @@
 # Observabilidade Inteligente com Dynatrace na Migração para AWS (patrocinado pelo Dynatrace) | MAM302-S
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `mam302-s`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | MAM302-S |
-| Horario | 14:00 BET |
+| Horario | 14:00 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 1 Vermelho |
 | Tipo | Sessão paralela |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ Migrar aplicações críticas para a nuvem exige visibilidade e controle em toda
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

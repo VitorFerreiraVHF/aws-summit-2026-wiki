@@ -1,7 +1,7 @@
 # Democratização governada de Agentes de IA com Amazon Bedrock AgentCore | AIM202
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `aim202`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | AIM202 |
-| Horario | 09:00 BET |
+| Horario | 09:00 BRT |
 | Local | Pavilhão 3 \| Palco 11 |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |

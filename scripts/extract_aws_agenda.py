@@ -347,6 +347,12 @@ def normalize_time(value: Any) -> str:
     return match.group(1) if match else text
 
 
+def normalize_timezone(value: Any) -> str:
+    """Normalize the event API's Brazil timezone label for public-facing pages."""
+    text = clean_text(value).upper()
+    return "BRT" if text in {"BET", "BRT", "UTC-3", "GMT-3"} else text
+
+
 def code_from_title(title: str, fallback: str) -> str:
     match = re.search(r"\|\s*([A-Z]{2,8}\d{2,4}(?:-[A-Z0-9]+)?|KEYNOTE)\s*$", title)
     if match:
@@ -398,7 +404,7 @@ def session_from_card(card: dict[str, Any], position: int) -> Session | None:
         session_type=clean_text(fields.get("itemExpandedHeading")) or label(features) or "Sessao",
         level=clean_text(fields.get("itemBadge")),
         time=normalize_time(fields.get("itemMetaTime")),
-        timezone=clean_text(fields.get("itemMetaTimeZone")),
+        timezone=normalize_timezone(fields.get("itemMetaTimeZone")),
         location=clean_text(fields.get("itemMetaLocation")),
         speakers=speakers,
         description=description,
@@ -439,7 +445,7 @@ def session_from_directory_item(entry: dict[str, Any], position: int) -> Session
         session_type=clean_text(fields.get("heading")) or label(features) or "Sessao",
         level=parse_badge(fields.get("badge")),
         time=normalize_time(fields.get("time")),
-        timezone=clean_text(fields.get("timeZone")),
+        timezone=normalize_timezone(fields.get("timeZone")),
         location=clean_text(fields.get("location")),
         speakers=speakers,
         description=description,
@@ -541,8 +547,8 @@ def write_catalog(sessions: list[Session]) -> None:
     lines = [
         "# Catalogo oficial AWS Summit Sao Paulo 2026",
         "",
-        "> Status: rascunho",
-        "> Dono:",
+        "> Status: catalogo oficial; revisao comunitaria",
+        "> Dono: Vitor Ferreira",
         "> Ultima revisao: 2026-09-04",
         "> Tags: `aws-summit-2026`, `catalogo-oficial`, `aws-summit-sao-paulo`",
         "",
@@ -589,14 +595,14 @@ def write_session_pages(sessions: list[Session]) -> None:
         lines = [
             f"# {session.title}",
             "",
-            "> Status: rascunho",
-            "> Dono:",
+            "> Status: catalogo oficial; revisao comunitaria",
+            "> Dono: Vitor Ferreira",
             "> Ultima revisao: 2026-09-04",
             f"> Tags: `aws-summit-2026`, `sessao`, `{session.code.lower()}`",
             "",
             "## Creditos",
             "",
-            f"- Palestrante(s)/organizacao(oes): {session.speakers or 'Nao informado no catalogo oficial'}",
+            f"- Palestrante(s)/organizacao(oes): {session.speakers or 'Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.'}",
             f"- Fonte: [Agenda oficial AWS Summit Sao Paulo 2026]({session.source_url})",
             "",
             "## Metadados oficiais",
@@ -629,7 +635,7 @@ def write_session_pages(sessions: list[Session]) -> None:
             "",
             "## Evidencias locais",
             "",
-            "Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.",
+            "Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.",
             "",
             "| Evidencia | Tipo | Observacao |",
             "| --- | --- | --- |",
@@ -664,8 +670,8 @@ def write_sessions_index(sessions: list[Session]) -> None:
     lines = [
         "# Paginas por sessao",
         "",
-        "> Status: rascunho",
-        "> Dono:",
+        "> Status: catalogo oficial; revisao comunitaria",
+        "> Dono: Vitor Ferreira",
         "> Ultima revisao: 2026-09-04",
         "> Tags: `aws-summit-2026`, `agenda`, `sessoes`",
         "",
@@ -738,8 +744,8 @@ def write_services_reference(sessions: list[Session]) -> None:
     lines = [
         "# Servicos AWS citados",
         "",
-        "> Status: rascunho",
-        "> Dono:",
+        "> Status: referencia comunitaria",
+        "> Dono: Vitor Ferreira",
         "> Ultima revisao: 2026-09-04",
         "> Tags: `aws-summit-2026`, `referencias`, `servicos-aws`",
         "",

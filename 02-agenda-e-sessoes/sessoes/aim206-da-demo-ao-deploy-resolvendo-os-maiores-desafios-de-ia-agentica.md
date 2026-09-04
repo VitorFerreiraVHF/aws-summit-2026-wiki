@@ -1,7 +1,7 @@
 # Da demo ao deploy: resolvendo os maiores desafios de IA agêntica | AIM206
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `aim206`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | AIM206 |
-| Horario | 09:00 BET |
+| Horario | 09:00 BRT |
 | Local | Pavilhão 3 \| Palco 9 |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |

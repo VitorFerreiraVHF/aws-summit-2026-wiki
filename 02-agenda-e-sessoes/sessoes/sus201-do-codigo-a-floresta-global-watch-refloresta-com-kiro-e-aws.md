@@ -1,7 +1,7 @@
 # Do código à floresta: Global Watch refloresta com Kiro e AWS | SUS201
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `sus201`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | SUS201 |
-| Horario | 13:45 BET |
+| Horario | 13:45 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 2 Azul |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ E se cada deploy pudesse plantar árvores? A Global Watch faz exatamente isso. U
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

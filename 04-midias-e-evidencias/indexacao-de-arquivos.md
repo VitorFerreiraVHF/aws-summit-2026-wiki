@@ -1,7 +1,7 @@
 # Indexacao de arquivos
 
-> Status: rascunho
-> Dono:
+> Status: revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `midias`, `evidencias`
 
@@ -125,6 +125,6 @@ A censura foi feita por deteccao automatica e pode falhar em rostos muito pequen
 | VID-003 | video | WhatsApp Video 2026-09-04 at 09.53.46.mp4 | [VID-003](assets/videos/VID-003__2026-09-04__aws-summit-2026__censurado.mp4) | 848x478 / 00:00:24 | 198 | Video saneado automaticamente. Frames processados: 749. |
 | VID-004 | video | WhatsApp Video 2026-09-04 at 09.53.47.mp4 | [VID-004](assets/videos/VID-004__2026-09-04__aws-summit-2026__censurado.mp4) | 478x850 / 00:00:49 | 2592 | Video saneado automaticamente. Frames processados: 1474. |
 | VID-005 | video | WhatsApp Video 2026-09-04 at 09.53.48.mp4 | [VID-005](assets/videos/VID-005__2026-09-04__aws-summit-2026__censurado.mp4) | 848x478 / 00:00:06 | 441 | Video saneado automaticamente. Frames processados: 204. |
-| AUD-001 | audio | 03-09-2026 08.24.m4a.mpeg | [AUD-001](assets/audio/AUD-001__2026-09-03-0824__gravacao-palestra.m4a) | 00:42:58 |  | Audio original convertido/copiatado para M4A para consulta privada e transcricao. |
-| AUD-002 | audio | 03-09-2026 11.04.m4a.mpeg | [AUD-002](assets/audio/AUD-002__2026-09-03-1104__gravacao-palestra.m4a) | 00:01:18 |  | Audio original convertido/copiatado para M4A para consulta privada e transcricao. |
-| AUD-003 | audio | 03-09-2026 11.06.m4a.mpeg | [AUD-003](assets/audio/AUD-003__2026-09-03-1106__gravacao-palestra.m4a) | 00:18:54 |  | Audio original convertido/copiatado para M4A para consulta privada e transcricao. |
+| AUD-001 | audio | 03-09-2026 08.24.m4a.mpeg | [AUD-001](assets/audio/AUD-001__2026-09-03-0824__gravacao-palestra.m4a) | 00:42:58 |  | Audio original convertido/copiado para M4A; voz preservada; revisar autorizacao antes de compartilhar. |
+| AUD-002 | audio | 03-09-2026 11.04.m4a.mpeg | [AUD-002](assets/audio/AUD-002__2026-09-03-1104__gravacao-palestra.m4a) | 00:01:18 |  | Audio original convertido/copiado para M4A; voz preservada; revisar autorizacao antes de compartilhar. |
+| AUD-003 | audio | 03-09-2026 11.06.m4a.mpeg | [AUD-003](assets/audio/AUD-003__2026-09-03-1106__gravacao-palestra.m4a) | 00:18:54 |  | Audio original convertido/copiado para M4A; voz preservada; revisar autorizacao antes de compartilhar. |

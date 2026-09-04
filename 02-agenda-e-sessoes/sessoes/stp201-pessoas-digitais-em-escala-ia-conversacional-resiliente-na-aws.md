@@ -1,7 +1,7 @@
 # Pessoas Digitais em Escala: IA Conversacional Resiliente na AWS | STP201
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `stp201`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | STP201 |
-| Horario | 12:00 BET |
+| Horario | 12:00 BRT |
 | Local | AWS Startups |
 | Tipo | Palestra para startups |
 | Nivel | 200 – Intermediate |
@@ -41,7 +41,7 @@ Pessoas Digitais em jornadas de negócio reguladas exigem mais do que um bom mod
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

@@ -1,7 +1,7 @@
 # IA na Prevent Senior: de manuscritos a decisões 300% mais rápido | IND211
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind211`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND211 |
-| Horario | 15:45 BET |
+| Horario | 15:45 BRT |
 | Local | AWS para Industrias |
 | Tipo | Palestra relâmpago |
 | Nivel | 200 – Intermediate |
@@ -41,7 +41,7 @@ A solução de IA da Prevent Senior automatiza o processamento de manuscritos m�
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

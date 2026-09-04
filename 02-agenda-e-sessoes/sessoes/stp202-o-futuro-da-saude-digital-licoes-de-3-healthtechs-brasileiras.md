@@ -1,7 +1,7 @@
 # O futuro da saúde digital: lições de 3 healthtechs brasileiras | STP202
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `stp202`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | STP202 |
-| Horario | 09:00 BET |
+| Horario | 09:00 BRT |
 | Local | AWS Startups |
 | Tipo | Palestra para startups |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ O Brasil se consolidou como um dos mercados mais dinâmicos de healthtech do mun
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

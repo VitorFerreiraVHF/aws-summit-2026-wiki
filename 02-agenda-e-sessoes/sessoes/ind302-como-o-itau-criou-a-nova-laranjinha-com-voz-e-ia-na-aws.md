@@ -1,7 +1,7 @@
 # Como o Itaú criou a nova Laranjinha com voz e IA na AWS | IND302
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind302`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND302 |
-| Horario | 13:45 BET |
+| Horario | 13:45 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 4 Roxo |
 | Tipo | Sessão paralela |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

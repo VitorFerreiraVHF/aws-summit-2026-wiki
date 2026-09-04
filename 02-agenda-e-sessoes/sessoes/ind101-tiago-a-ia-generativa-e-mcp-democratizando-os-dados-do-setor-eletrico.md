@@ -1,7 +1,7 @@
 # TIAGO: a IA generativa e MCP democratizando os dados do setor elétrico | IND101
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind101`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND101 |
-| Horario | 15:30 BET |
+| Horario | 15:30 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 1 Vermelho |
 | Tipo | Sessão paralela |
 | Nivel | 100 – Foundational |
@@ -40,7 +40,7 @@ E se qualquer pessoa pudesse perguntar, em linguagem natural, sobre a operação
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

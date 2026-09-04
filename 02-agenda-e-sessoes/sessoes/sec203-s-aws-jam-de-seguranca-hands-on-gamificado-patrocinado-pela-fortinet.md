@@ -1,7 +1,7 @@
 # AWS Jam de Segurança - Hands-on Gamificado (patrocinado pela Fortinet) | SEC203-S
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `sec203-s`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | SEC203-S |
-| Horario | 13:30 BET |
+| Horario | 13:30 BRT |
 | Local | AWS Lounge de interação |
 | Tipo | Aprendizado gamificado |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ O AWS Jam é uma experiência de aprendizado prática e gamificada, onde equipes
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

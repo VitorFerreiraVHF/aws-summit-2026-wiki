@@ -1,7 +1,7 @@
 # BTG reduz 45% de custos de .Net usando AWS Transform e Kiro | MAM307
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `mam307`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | MAM307 |
-| Horario | 16:30 BET |
+| Horario | 16:30 BRT |
 | Local | Pavilhão 3 \| Palco 12 |
 | Tipo | Sessão paralela |
 | Nivel | 300 – Advanced |

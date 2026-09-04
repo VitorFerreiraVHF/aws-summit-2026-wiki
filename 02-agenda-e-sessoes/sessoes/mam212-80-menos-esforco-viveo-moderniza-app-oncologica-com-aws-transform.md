@@ -1,13 +1,13 @@
 # 80% menos esforço: Viveo moderniza app oncológica com AWS Transform | MAM212
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `mam212`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | MAM212 |
-| Horario | 12:00 BET |
+| Horario | 12:00 BRT |
 | Local | Pavilhão 3 \| Palco 10 |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -41,7 +41,7 @@ A Viveo, um dos maiores ecossistemas de saúde do Brasil, modernizou sua aplica�
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

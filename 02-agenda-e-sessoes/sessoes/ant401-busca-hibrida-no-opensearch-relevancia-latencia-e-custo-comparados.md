@@ -1,13 +1,13 @@
 # Busca híbrida no OpenSearch: relevância, latência e custo comparados | ANT401
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ant401`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | ANT401 |
-| Horario | 13:45 BET |
+| Horario | 13:45 BRT |
 | Local | Pavilhão 4 \| Sessão Interativa 3 |
 | Tipo | Sessão Interativa |
 | Nivel | 400 – Expert |
@@ -41,7 +41,7 @@ Combinar busca por palavras-chave e busca semântica traz ganhos claros de relev
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

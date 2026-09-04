@@ -1,7 +1,7 @@
 # Desenvolvimento orientado a especificações com Kiro | NTA109
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `nta109`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | NTA109 |
-| Horario | 14:15 BET |
+| Horario | 14:15 BRT |
 | Local | Novo na AWS |
 | Tipo | Palestra relâmpago |
 | Nivel | 100 – Foundational |
@@ -40,7 +40,7 @@ O desenvolvimento orientado a especificações com Kiro transforma a forma como 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

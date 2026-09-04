@@ -1,7 +1,7 @@
 # Catalogo oficial AWS Summit Sao Paulo 2026
 
-> Status: rascunho
-> Dono:
+> Status: revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `catalogo-oficial`, `aws-summit-sao-paulo`
 

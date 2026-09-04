@@ -1,7 +1,7 @@
 # Comércio Agêntico: como o Grupo Boticário escala a omnicanalidade | IND204
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind204`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND204 |
-| Horario | 13:45 BET |
+| Horario | 13:45 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 5 Rosa |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ Agentes de IA estão se tornando a nova interface entre consumidores e comércio
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

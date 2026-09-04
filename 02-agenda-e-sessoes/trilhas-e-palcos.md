@@ -1,15 +1,15 @@
 # Trilhas e palcos
 
-    > Status: rascunho
-    > Dono:
-    > Ultima revisao: 2026-09-04
-    > Tags: `aws-summit-2026`, `agenda`, `trilhas`
+> Status: revisao comunitaria
+> Dono: Vitor Ferreira
+> Ultima revisao: 2026-09-04
+> Tags: `aws-summit-2026`, `agenda`, `trilhas`
 
-    Visao consolidada do catalogo oficial da AWS para ajudar consultas por tema, nivel, formato e local.
+Visao consolidada do catalogo oficial da AWS para ajudar consultas por tema, nivel, formato e local.
 
-    ## Por topico oficial
+## Por topico oficial
 
-    | Item | Sessoes |
+| Item | Sessoes |
 | --- | ---: |
 | Inteligencia artificial | 107 |
 | Arquitetura | 54 |
@@ -28,9 +28,9 @@
 | Open source | 2 |
 | End-user computing | 1 |
 
-    ## Por area de interesse
+## Por area de interesse
 
-    | Item | Sessoes |
+| Item | Sessoes |
 | --- | ---: |
 | Agentic Ai | 61 |
 | Gen Ai | 47 |
@@ -53,9 +53,9 @@
 | Mgmnt Gov | 3 |
 | Dis Res Rec | 3 |
 
-    ## Por nivel
+## Por nivel
 
-    | Item | Sessoes |
+| Item | Sessoes |
 | --- | ---: |
 | 300 – Advanced | 77 |
 | 200 – Intermediate | 64 |
@@ -63,9 +63,9 @@
 | 400 – Expert | 12 |
 | Nao informado | 1 |
 
-    ## Por formato
+## Por formato
 
-    | Item | Sessoes |
+| Item | Sessoes |
 | --- | ---: |
 | Sessão paralela | 56 |
 | Palestra relâmpago | 43 |
@@ -77,9 +77,9 @@
 | Aprendizado gamificado | 3 |
 | Keynote | 1 |
 
-    ## Por palco/local
+## Por palco/local
 
-    | Item | Sessoes |
+| Item | Sessoes |
 | --- | ---: |
 | AWS Lounge de parceiros estratégicos | 10 |
 | AWS Comunidade de desenvolvedores | 9 |

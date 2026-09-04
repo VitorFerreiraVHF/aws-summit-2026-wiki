@@ -1,7 +1,7 @@
 # Como a ÆIR reduziu acesso a dados clínicos de dias para minutos | IND201
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ind201`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | IND201 |
-| Horario | 16:15 BET |
+| Horario | 16:15 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 4 Roxo |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ O ÆIR (Albert Einstein Intelligent Research) é uma plataforma desenvolvida pel
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

@@ -1,7 +1,7 @@
 # Tecnologia e Inclusão: Edtechs que estão transformando a educação | INC101
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `inc101`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | INC101 |
-| Horario | 12:15 BET |
+| Horario | 12:15 BRT |
 | Local | Pavilhão 3 \| Sessão Interativa 8 |
 | Tipo | Sessão Interativa |
 | Nivel | 100 – Foundational |
@@ -40,7 +40,7 @@ A tecnologia tem o poder de tornar a educação mais inclusiva. Neste painel, du
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

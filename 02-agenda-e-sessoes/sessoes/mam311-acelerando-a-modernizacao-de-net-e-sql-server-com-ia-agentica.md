@@ -1,13 +1,13 @@
 # Acelerando a modernização de .NET e SQL Server com IA agêntica | MAM311
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `mam311`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | MAM311 |
-| Horario | 08:00 BET |
+| Horario | 08:00 BRT |
 | Local | Sala 211 \| Workshop |
 | Tipo | Workshop |
 | Nivel | 300 – Advanced |

@@ -1,7 +1,7 @@
 # Serverless Orientado a Eventos: Construindo um sistema de feedback | DEV101
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dev101`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DEV101 |
-| Horario | 15:15 BET |
+| Horario | 15:15 BRT |
 | Local | AWS Comunidade de desenvolvedores |
 | Tipo | Papo de desenvolvedores |
 | Nivel | 100 – Foundational |
@@ -40,7 +40,7 @@ Nesta palestra, construiremos uma arquitetura serverless moderna aplicada a um s
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

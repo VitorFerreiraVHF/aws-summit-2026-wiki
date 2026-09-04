@@ -1,7 +1,7 @@
 # Do on-premises ao petabyte: migrando a plataforma de dados da B3 | MAM209
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `mam209`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | MAM209 |
-| Horario | 09:00 BET |
+| Horario | 09:00 BRT |
 | Local | Pavilhão 3 \| Palco 12 |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -41,7 +41,7 @@ Uma das maiores infraestruturas de mercado financeiro da América Latina preciso
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

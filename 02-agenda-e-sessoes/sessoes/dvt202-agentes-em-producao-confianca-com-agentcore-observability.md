@@ -1,7 +1,7 @@
 # Agentes em produção: Confiança com AgentCore Observability | DVT202
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dvt202`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DVT202 |
-| Horario | 12:30 BET |
+| Horario | 12:30 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 5 Rosa |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |

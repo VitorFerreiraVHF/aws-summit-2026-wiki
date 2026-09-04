@@ -1,7 +1,7 @@
 # IA Agêntica com Qlik e AWS: Do Insight à Ação Autônoma (patrocinado pelo Qlik) | AIM313-S
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `aim313-s`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | AIM313-S |
-| Horario | 12:00 BET |
+| Horario | 12:00 BRT |
 | Local | Teatro Expo |
 | Tipo | Palestra relâmpago |
 | Nivel | 300 – Advanced |
@@ -41,7 +41,7 @@ Passe de dados fragmentados a ações autônomas em apenas 30 minutos. Descubra 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

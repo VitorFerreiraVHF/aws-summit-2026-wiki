@@ -60,8 +60,8 @@ def transcribe_file(model: WhisperModel, source: Path) -> TranscriptItem:
     lines = [
         f"# Transcricao automatica - {media_id}",
         "",
-        "> Status: rascunho",
-        "> Dono:",
+        "> Status: transcricao automatica; revisao humana pendente",
+        "> Dono: Vitor Ferreira",
         "> Ultima revisao: 2026-09-04",
         f"> Tags: `aws-summit-2026`, `transcricao`, `{media_id.lower()}`",
         "",
@@ -121,4 +121,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

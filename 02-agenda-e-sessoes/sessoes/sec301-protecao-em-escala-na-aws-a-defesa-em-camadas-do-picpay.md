@@ -1,7 +1,7 @@
 # Proteção em escala na AWS: A Defesa em Camadas do PicPay | SEC301
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `sec301`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | SEC301 |
-| Horario | 15:00 BET |
+| Horario | 15:00 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 3 Branco |
 | Tipo | Sessão paralela |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ O PicPay atende 66 milhões de clientes e processa 770 milhões de transações 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

@@ -11,6 +11,8 @@ Este projeto pode ser lido, copiado, adaptado e compartilhado sem fins lucrativo
 - links para a fonte original sejam preservados quando existirem;
 - o uso nao sugira patrocinio, aprovacao ou vinculo oficial com a AWS, seus palestrantes ou parceiros.
 
+A divulgacao em LinkedIn, intranet, canais institucionais ou comunicacoes de comunidade e permitida quando tiver finalidade educacional, for gratuita e nao vender diretamente este material, mantendo os creditos e a indicacao de que o projeto e independente da AWS.
+
 ## Restricao de uso comercial
 
 Nao e permitida a venda, sublicenca, incorporacao em produto pago, treinamento comercial, servico remunerado ou outra exploracao comercial deste material sem autorizacao escrita do titular dos direitos aplicaveis.
@@ -27,4 +29,4 @@ AWS, Amazon Web Services e nomes de servicos sao marcas da Amazon Web Services, 
 
 O material e fornecido "como esta", para fins de aprendizado e consulta. Verifique informacoes tecnicas, precos, disponibilidade, seguranca, licencas e compatibilidade na documentacao oficial antes de tomar decisoes.
 
-Para solicitar correcao de credito, retirada de material proprio ou autorizacao de uso comercial, abra uma issue no repositorio privado ou contate o mantenedor.
+Para solicitar correcao de credito, retirada de material proprio ou autorizacao de uso comercial, abra uma [issue publica](https://github.com/VitorFerreiraVHF/aws-summit-2026-wiki/issues) ou contate o mantenedor.

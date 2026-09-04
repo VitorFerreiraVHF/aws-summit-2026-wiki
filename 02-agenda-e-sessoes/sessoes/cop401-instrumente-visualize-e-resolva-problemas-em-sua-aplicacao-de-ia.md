@@ -1,13 +1,13 @@
 # Instrumente, visualize e resolva problemas em sua aplicação de IA | COP401
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `cop401`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | COP401 |
-| Horario | 15:00 BET |
+| Horario | 15:00 BRT |
 | Local | Sala 206 BC \| Sessão sobre Programação |
 | Tipo | Sessão sobre Programação |
 | Nivel | 400 – Expert |

@@ -1,7 +1,7 @@
 # Fine-Tuning e inferência de SLMs em múltiplas regiões no Amazon EKS | AIM303
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `aim303`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | AIM303 |
-| Horario | 13:30 BET |
+| Horario | 13:30 BRT |
 | Local | Pavilhão 3 \| Palco 10 |
 | Tipo | Sessão paralela |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ E se você pudesse reduzir custos de fine-tuning e inferência de IA mantendo a 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

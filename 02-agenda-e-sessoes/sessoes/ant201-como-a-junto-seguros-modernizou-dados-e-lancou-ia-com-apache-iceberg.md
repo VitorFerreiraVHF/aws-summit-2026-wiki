@@ -1,7 +1,7 @@
 # Como a Junto Seguros modernizou dados e lançou IA com Apache Iceberg | ANT201
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `ant201`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | ANT201 |
-| Horario | 16:15 BET |
+| Horario | 16:15 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 7 Amarelo |
 | Tipo | Sessão paralela |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ A Junto Seguros enfrentou um crescimento explosivo de dados e a necessidade de i
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

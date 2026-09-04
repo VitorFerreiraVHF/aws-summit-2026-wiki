@@ -1,13 +1,13 @@
 # Construindo agentes de IA com Kiro, MCP e Amazon Bedrock AgentCore [REPETIÇÃO] | DVT304-R
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dvt304-r`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DVT304-R |
-| Horario | 09:00 BET |
+| Horario | 09:00 BRT |
 | Local | Sala 207 \| Sessão sobre Programação |
 | Tipo | Sessão sobre Programação |
 | Nivel | 300 – Advanced |

@@ -1,7 +1,7 @@
 # Do git clone ao Pull Request em 30 min: contribuindo com open source | DEV201
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dev201`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DEV201 |
-| Horario | 12:15 BET |
+| Horario | 12:15 BRT |
 | Local | AWS Comunidade de desenvolvedores |
 | Tipo | Papo de desenvolvedores |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ Contribuir com open source pode parecer intimidador quando você nunca viu o cod
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

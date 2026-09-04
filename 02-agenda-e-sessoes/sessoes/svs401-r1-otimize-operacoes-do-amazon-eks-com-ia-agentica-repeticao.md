@@ -1,7 +1,7 @@
 # Otimize Operações do Amazon EKS com IA Agêntica [REPETIÇÃO] | SVS401-R1
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `svs401-r1`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | SVS401-R1 |
-| Horario | 14:30 BET |
+| Horario | 14:30 BRT |
 | Local | AWS Village |
 | Tipo | Sessão sobre Programação |
 | Nivel | 400 – Expert |
@@ -40,7 +40,7 @@ Nesta code talk, aprenda a construir sistemas de IA agêntica que automatizam o 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

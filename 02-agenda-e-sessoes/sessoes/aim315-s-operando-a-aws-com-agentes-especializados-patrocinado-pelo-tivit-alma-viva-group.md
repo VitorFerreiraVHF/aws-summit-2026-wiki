@@ -1,7 +1,7 @@
 # Operando a AWS com agentes especializados (patrocinado pelo TIVIT alma viva group) | AIM315-S
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `aim315-s`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | AIM315-S |
-| Horario | 12:45 BET |
+| Horario | 12:45 BRT |
 | Local | Teatro Expo |
 | Tipo | Palestra relâmpago |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ Nesta palestra, você descobrirá como transformar a gestão de nuvem em um dife
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

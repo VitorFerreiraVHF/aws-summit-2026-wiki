@@ -1,7 +1,7 @@
 # Design avançado de VPC e novas funcionalidades | NET301
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `net301`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | NET301 |
-| Horario | 09:00 BET |
+| Horario | 09:00 BRT |
 | Local | Pavilhão 3 \| Sessão Interativa 5 |
 | Tipo | Sessão Interativa |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ O Amazon VPC é um serviço fundamental na AWS, oferecendo controle total sobre 
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

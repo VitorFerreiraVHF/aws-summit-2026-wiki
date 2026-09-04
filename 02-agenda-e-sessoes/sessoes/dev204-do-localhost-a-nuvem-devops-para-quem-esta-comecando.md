@@ -1,7 +1,7 @@
 # Do Localhost à Nuvem: DevOps para Quem Está Começando | DEV204
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dev204`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DEV204 |
-| Horario | 13:00 BET |
+| Horario | 13:00 BRT |
 | Local | AWS Comunidade de desenvolvedores |
 | Tipo | Papo de desenvolvedores |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

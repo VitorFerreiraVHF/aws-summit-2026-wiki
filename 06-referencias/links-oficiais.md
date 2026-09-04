@@ -1,7 +1,7 @@
 # Links oficiais
 
-> Status: rascunho
-> Dono:
+> Status: revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `referencias`, `aws`
 

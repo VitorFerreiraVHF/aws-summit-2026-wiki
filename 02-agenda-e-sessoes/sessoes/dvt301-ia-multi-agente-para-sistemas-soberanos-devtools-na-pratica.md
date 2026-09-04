@@ -1,7 +1,7 @@
 # IA multi-agente para sistemas soberanos: Devtools na prática | DVT301
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `dvt301`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | DVT301 |
-| Horario | 15:00 BET |
+| Horario | 15:00 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 2 Azul |
 | Tipo | Sessão paralela |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ A Forlex, startup da co-hort GAIA 2025, construiu o HIVE — uma plataforma mult
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

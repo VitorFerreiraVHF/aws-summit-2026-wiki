@@ -1,7 +1,7 @@
 # AICube: Memória Persistente para Agent Fleets com Bedrock AgentCore | STP204
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `stp204`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | STP204 |
-| Horario | 13:00 BET |
+| Horario | 13:00 BRT |
 | Local | AWS Startups |
 | Tipo | Palestra para startups |
 | Nivel | 200 – Intermediate |
@@ -40,7 +40,7 @@ rotas de agentes enterprise são limitadas por memória, não por modelo. Sem me
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

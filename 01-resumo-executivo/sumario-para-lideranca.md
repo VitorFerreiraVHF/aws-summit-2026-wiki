@@ -1,6 +1,6 @@
 # Sumario para lideranca
 
-> Status: rascunho informado por evidencias
+> Status: revisao comunitaria informada por evidencias
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `lideranca`, `resumo-executivo`
 

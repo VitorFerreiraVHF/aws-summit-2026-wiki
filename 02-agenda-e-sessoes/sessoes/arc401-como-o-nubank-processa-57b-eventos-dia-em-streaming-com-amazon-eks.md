@@ -1,7 +1,7 @@
 # Como o Nubank processa 57B eventos/dia em streaming com Amazon EKS | ARC401
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `arc401`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | ARC401 |
-| Horario | 13:45 BET |
+| Horario | 13:45 BRT |
 | Local | Pavilhões 1 & 2 \| Palco 8 Verde |
 | Tipo | Sessão paralela |
 | Nivel | 400 – Expert |
@@ -40,7 +40,7 @@ O Nubank processa mais de 57 bilhões de eventos por dia em sua plataforma de st
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

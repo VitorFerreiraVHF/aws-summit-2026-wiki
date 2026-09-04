@@ -1,7 +1,7 @@
 # Workshop de desempenho com EKS, Karpenter, APerf baseado em IA | ARC301
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `arc301`
 
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | ARC301 |
-| Horario | 14:30 BET |
+| Horario | 14:30 BRT |
 | Local | Sala 211 \| Workshop |
 | Tipo | Workshop |
 | Nivel | 300 – Advanced |
@@ -40,7 +40,7 @@ Seu aplicativo roda — mas é eficiente? Neste workshop competitivo, as equipes
 
 ## Evidencias locais
 
-Adicione aqui fotos, videos, audios ou transcricoes relacionados a esta sessao.
+Ainda nao ha evidencias locais associadas a esta sessao. Quando houver, adicione links no indice de midias e nesta pagina.
 
 | Evidencia | Tipo | Observacao |
 | --- | --- | --- |

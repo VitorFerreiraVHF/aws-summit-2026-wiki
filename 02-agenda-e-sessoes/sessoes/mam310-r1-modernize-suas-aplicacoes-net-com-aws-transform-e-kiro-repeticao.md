@@ -1,13 +1,13 @@
 # Modernize suas aplicações .NET com AWS Transform e Kiro [REPETIÇÃO] | MAM310-R1
 
-> Status: rascunho
-> Dono:
+> Status: catalogo oficial; revisao comunitaria
+> Dono: Vitor Ferreira
 > Ultima revisao: 2026-09-04
 > Tags: `aws-summit-2026`, `sessao`, `mam310-r1`
 
 ## Creditos
 
-- Palestrante(s)/organizacao(oes): Nao informado no catalogo oficial
+- Palestrante(s)/organizacao(oes): Nomes individuais nao informados no catalogo oficial; confirmar em materiais publicados.
 - Fonte: [Agenda oficial AWS Summit Sao Paulo 2026](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/)
 
 ## Metadados oficiais
@@ -15,7 +15,7 @@
 | Campo | Valor |
 | --- | --- |
 | Codigo | MAM310-R1 |
-| Horario | 16:45 BET |
+| Horario | 16:45 BRT |
 | Local | AWS Village |
 | Tipo | Sessão sobre Programação |
 | Nivel | 300 – Advanced |

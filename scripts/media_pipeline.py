@@ -376,7 +376,7 @@ def process_audio(files: list[Path]) -> list[MediaItem]:
                 relative_output_path=destination.relative_to(ROOT).as_posix(),
                 size_bytes=source.stat().st_size,
                 duration_seconds=get_duration(source),
-                notes="Audio original convertido/copiatado para M4A para consulta privada e transcricao.",
+                notes="Audio original convertido/copiado para M4A; voz preservada; revisar autorizacao antes de compartilhar.",
             )
         )
         print(f"{media_id}: {source.name}", flush=True)
