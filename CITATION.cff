@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "AWS Summit 2026 - Wiki de Conhecimento"
+message: "Se esta wiki apoiar seu trabalho, preserve a autoria, os creditos das fontes e os links oficiais."
+type: dataset
+authors:
+  - family-names: Ferreira
+    given-names: Vitor
+    website: "https://github.com/VitorFerreiraVHF"
+date-released: 2026-09-04
+repository-code: "https://github.com/VitorFerreiraVHF/aws-summit-2026-wiki"
+url: "https://github.com/VitorFerreiraVHF/aws-summit-2026-wiki"
+license: "LicenseRef-Community-NonCommercial-Attribution"
+keywords:
+  - AWS
+  - AWS Summit
+  - cloud computing
+  - knowledge sharing
+  - community documentation

@@ -6,6 +6,12 @@ O projeto tem finalidade exclusivamente comunitaria e sem fins lucrativos: regis
 
 Use a [Home](Home.md) como ponto de entrada principal. O repositorio foi publicado para facilitar a consulta e o compartilhamento gratuito de conhecimento.
 
+## Autoria e citacao
+
+Projeto mantido e curado por [Vitor Ferreira](https://github.com/VitorFerreiraVHF). Ao reutilizar esta base, preserve os creditos e aponte para este repositorio. Um registro estruturado para citacao esta em [CITATION.cff](CITATION.cff).
+
+Contribuicoes seguem o [guia de contribuicao](CONTRIBUTING.md).
+
 ## Transparencia da publicacao
 
 - O catalogo e os metadados de sessoes vem da [agenda oficial da AWS](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/).

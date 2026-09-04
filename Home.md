@@ -16,12 +16,15 @@ Este projeto e mantido sem fins lucrativos para documentar o AWS Summit 2026, me
 - Fotos e videos foram salvos em versao saneada com censura automatica de rostos.
 - Referencias oficiais, glossario, fluxos Mermaid e paginas tematicas ja estao conectados.
 - A pesquisa de [gravacoes publicas e minutagens](06-referencias/bibliografia-e-leituras.md#gravacoes-publicas-e-youtube) foi registrada; a gravação oficial de Sao Paulo ainda nao estava disponivel em 2026-09-04.
+- Mantenedor e curador: [Vitor Ferreira](https://github.com/VitorFerreiraVHF).
 
 ## Nota de publicacao
 
 Esta e uma iniciativa independente, sem fins lucrativos e voltada a educacao e compartilhamento de conhecimento. O catalogo oficial e as referencias AWS estao separados das interpretacoes, transcricoes e evidencias pessoais. Rostos foram censurados automaticamente em fotos e videos, mas a revisao humana continua necessaria. Audios mantem vozes e transcricoes sao automaticas, portanto devem ser publicados e citados somente quando houver autorizacao e conferencia do trecho.
 
 Para compartilhar a iniciativa em canais institucionais, use a [licenca comunitaria](LICENSE.md), preserve creditos e deixe claro que o repositorio nao e oficial da AWS.
+
+Para citar o projeto, consulte [CITATION.cff](CITATION.cff).
 
 ## Navegacao principal
 

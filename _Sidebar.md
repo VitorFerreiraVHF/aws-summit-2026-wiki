@@ -44,4 +44,6 @@
   - [Arquitetura de referencia](06-referencias/arquitetura-de-referencia.md)
 - [Acoes e follow-up](07-acoes-e-follow-up.md)
 - [Templates](templates.md)
+- [Como contribuir](CONTRIBUTING.md)
+- [Como citar](CITATION.cff)
 - [Licenca de uso comunitario](LICENSE.md)
