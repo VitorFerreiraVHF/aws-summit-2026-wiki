@@ -8,6 +8,8 @@ Thumbs.db
 *.log
 _work/
 reports/
+__pycache__/
+*.py[cod]
 
 # Keep raw large captures local by default.
 # Prefer links, compressed clips, Git LFS, S3, OneDrive or SharePoint for large videos.
