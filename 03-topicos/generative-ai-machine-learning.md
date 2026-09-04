@@ -30,7 +30,7 @@ flowchart TD
 
 ## Evidencias locais
 
-- Fotos 037-054 em [Fotos](../04-midias-e-evidencias/fotos.md#agrupamentos-curados)
+- Fotos 037-054 em [Fotos](../04-midias-e-evidencias/fotos.md#agrupamentos-para-curadoria)
 - Sessoes relacionadas: [AIM202](../02-agenda-e-sessoes/sessoes/aim202-democratizacao-governada-de-agentes-de-ia-com-amazon-bedrock-agentcore.md), [DVT203](../02-agenda-e-sessoes/sessoes/dvt203-debug-mais-rapido-governe-melhor-ai-dlc-e-observabilidade.md)
 
 ## Referencias oficiais

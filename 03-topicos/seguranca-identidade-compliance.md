@@ -22,6 +22,6 @@
 
 ## Evidencias locais
 
-- Fotos 051-055 em [Fotos](../04-midias-e-evidencias/fotos.md#agrupamentos-curados)
+- Fotos 051-055 em [Fotos](../04-midias-e-evidencias/fotos.md#agrupamentos-para-curadoria)
 - Sessoes relacionadas: [SEC302](../02-agenda-e-sessoes/sessoes/sec302-protegendo-o-acesso-de-agentes-com-o-amazon-bedrock-agentcore-identity.md), [SEC303](../02-agenda-e-sessoes/sessoes/sec303-acelere-a-criacao-de-politicas-com-o-iam-policy-autopilot.md)
 

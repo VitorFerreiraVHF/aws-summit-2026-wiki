@@ -27,8 +27,8 @@ flowchart LR
 
 ## Evidencias locais
 
-- [Grupo Mod-AI/EBA](../04-midias-e-evidencias/fotos.md#agrupamentos-curados)
-- [Workshop SQL Server com AWS Transform](../04-midias-e-evidencias/fotos.md#agrupamentos-curados)
+- [Grupo Mod-AI/EBA](../04-midias-e-evidencias/fotos.md#agrupamentos-para-curadoria)
+- [Workshop SQL Server com AWS Transform](../04-midias-e-evidencias/fotos.md#agrupamentos-para-curadoria)
 - Sessao relacionada: [MAM311](../02-agenda-e-sessoes/sessoes/mam311-acelerando-a-modernizacao-de-net-e-sql-server-com-ia-agentica.md)
 
 ## Referencias oficiais
